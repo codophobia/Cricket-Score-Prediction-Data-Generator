@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-01-02</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Port Moresby</city>
+    <dates>
+      <date>2019-03-24</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <match_type_number>761</match_type_number>
+    <outcome>
+      <by>
+        <runs>10</runs>
+      </by>
+      <winner>Philippines</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>DC Smith</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Philippines</team>
+      <team>Vanuatu</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Vanuatu</winner>
+    </toss>
+    <umpires>
+      <umpire>A Kapa</umpire>
+      <umpire>SD Fry</umpire>
+    </umpires>
+    <venue>Amini Park</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Philippines</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>Karweng NG</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Karweng NG</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>Karweng NG</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>A Mansale</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Karweng NG</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>J Hill</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>J Hill</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JW Chilia</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>J Hill</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>N Nipiko</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>R Goodwin</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>R Goodwin</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>R Goodwin</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>R Goodwin</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>R Goodwin</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>R Goodwin</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>R Goodwin</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>R Goodwin</batsman>
+          <bowler>CC Blake</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>N Nipiko</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>R Goodwin</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>R Goodwin</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>R Goodwin</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>DC Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>DC Smith</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>R Goodwin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>DC Smith</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Vanuatu</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>Surinder Singh</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>Surinder Singh</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>Surinder Singh</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>Surinder Singh</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>Surinder Singh</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>Surinder Singh</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>Surinder Singh</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>DC Smith</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>DC Smith</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>DC Smith</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>DC Smith</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Vimal Kumar</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>A Mansale</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>DC Smith</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>DC Smith</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>DC Smith</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>DC Smith</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>DC Smith</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>DC Smith</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>DC Smith</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>DC Smith</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MP Biddappa</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>J Rasu</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>R Tari</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>R Tari</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>R Tari</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>R Mahajan</bowler>
+          <non_striker>R Tari</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

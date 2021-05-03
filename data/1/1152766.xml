@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-03-24</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Sydney</city>
+    <competition>Women's Big Bash League</competition>
+    <dates>
+      <date>2019-01-05</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <result>no result</result>
+    </outcome>
+    <overs>20</overs>
+    <teams>
+      <team>Sydney Thunder</team>
+      <team>Melbourne Stars</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Sydney Thunder</winner>
+    </toss>
+    <umpires>
+      <umpire>Troy Penman</umpire>
+      <umpire>Marc Nickl</umpire>
+    </umpires>
+    <venue>Blacktown International Sportspark</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Sydney Thunder</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Sutherland</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Sutherland</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>8</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HL Ferling</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>RH Priest</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>A Sutherland</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>A Sutherland</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>8</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>A Sutherland</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>HL Ferling</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>HL Ferling</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>8</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>A King</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>A King</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>EA Osborne</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>NE Stalenberg</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>A King</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>A King</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>A King</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>A King</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>L Lee</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RL Haynes</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>HL Ferling</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>A King</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>A King</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>A King</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>A King</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>A King</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>A King</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>GA Elwiss</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>GA Elwiss</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>GA Elwiss</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>GA Elwiss</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>GA Elwiss</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>GA Elwiss</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>EA Osborne</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>AJ Blackwell</batsman>
+          <bowler>EA Osborne</bowler>
+          <non_striker>H Kaur</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>H Kaur</batsman>
+          <bowler>GA Elwiss</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>AJ Blackwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

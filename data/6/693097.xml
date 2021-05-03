@@ -1,0 +1,3174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-08-24</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Taunton</city>
+    <competition>NatWest T20 Blast</competition>
+    <dates>
+      <date>2014-06-13</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <runs>1</runs>
+      </by>
+      <winner>Somerset</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>PD Trego</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Somerset</team>
+      <team>Hampshire</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Hampshire</winner>
+    </toss>
+    <umpires>
+      <umpire>RJ Evans</umpire>
+      <umpire>JW Lloyds</umpire>
+    </umpires>
+    <venue>The Cooper Associates County Ground</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Somerset</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>CR Jones</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>CR Jones</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>CR Jones</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>CR Jones</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>CR Jones</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>CR Jones</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>CR Jones</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>CR Jones</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>CR Jones</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>CR Jones</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>CR Jones</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>CR Jones</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>CR Jones</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>JM Vince</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>WR Smith</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>SM Ervine</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>C Kieswetter</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>C Kieswetter</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KJ Abbott</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>C Kieswetter</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>JM Vince</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>AN Petersen</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <extras>
+            <noballs>2</noballs>
+          </extras>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>AN Petersen</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>AN Petersen</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>AN Petersen</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>AN Petersen</batsman>
+          <bowler>CP Wood</bowler>
+          <extras>
+            <noballs>2</noballs>
+          </extras>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>2</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>AN Petersen</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>AN Petersen</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>PD Trego</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>PD Trego</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>PD Trego</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>AN Petersen</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>CAJ Meschede</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>AN Petersen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>AN Petersen</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>CAJ Meschede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AJA Wheater</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>AN Petersen</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>JC Hildreth</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>CAJ Meschede</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>JC Hildreth</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>CP Wood</bowler>
+          <non_striker>JC Hildreth</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>JC Hildreth</batsman>
+          <bowler>CP Wood</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>CAJ Meschede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>JC Hildreth</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>CAJ Meschede</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>KJ Abbott</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>JC Hildreth</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>JC Hildreth</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>CAJ Meschede</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>JC Hildreth</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>JC Hildreth</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>KJ Abbott</bowler>
+          <non_striker>JC Hildreth</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Hampshire</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JC Hildreth</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JM Vince</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>JHK Adams</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>JHK Adams</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>JHK Adams</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>JHK Adams</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>JHK Adams</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>JHK Adams</batsman>
+          <bowler>DP Nannes</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>JHK Adams</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>JHK Adams</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>JHK Adams</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>JHK Adams</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>JHK Adams</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>JHK Adams</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>JHK Adams</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>JHK Adams</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>C Overton</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JHK Adams</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>PD Trego</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>DP Nannes</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>DP Nannes</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>8</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>DP Nannes</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>AC Thomas</bowler>
+          <extras>
+            <noballs>2</noballs>
+          </extras>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>2</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>MA Carberry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>MA Carberry</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MTC Waller</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MA Carberry</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>GJ Maxwell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>GJ Maxwell</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>C Kieswetter</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>GJ Maxwell</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>MTC Waller</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>OA Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>OA Shah</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JG Myburgh</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>OA Shah</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>C Overton</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>MTC Waller</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>SM Ervine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>SM Ervine</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CR Jones</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SM Ervine</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>MT Coles</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JC Hildreth</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MT Coles</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>WR Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>WR Smith</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>WR Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>WR Smith</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>WR Smith</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>WR Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>WR Smith</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>WR Smith</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>WR Smith</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>WR Smith</batsman>
+          <bowler>DP Nannes</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>WR Smith</batsman>
+          <bowler>DP Nannes</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>WR Smith</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>WR Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>WR Smith</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>WR Smith</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>WR Smith</batsman>
+          <bowler>AC Thomas</bowler>
+          <non_striker>AJA Wheater</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>AJA Wheater</batsman>
+          <bowler>AC Thomas</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>WR Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

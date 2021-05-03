@@ -1,0 +1,3247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-09-14</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <dates>
+      <date>2018-07-13</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>IT20</match_type>
+    <outcome>
+      <by>
+        <runs>94</runs>
+      </by>
+      <winner>Uganda</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>Riazat Ali Shah</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Uganda</team>
+      <team>Rwanda</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Uganda</winner>
+    </toss>
+    <umpires>
+      <umpire>IO Oyieko</umpire>
+      <umpire>A Louw</umpire>
+    </umpires>
+    <venue>Gahanga International Cricket Stadium. Rwanda</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Uganda</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>HB Kayondo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>HB Kayondo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>HB Kayondo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>HB Kayondo</batsman>
+          <bowler>V Mitari</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>HB Kayondo</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>HB Kayondo</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>HB Kayondo</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Bosco Tuyizere</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>HB Kayondo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>RB Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>RB Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>RB Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>RB Patel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RB Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>RB Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>C Rububagumya</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>C Rububagumya</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>RB Patel</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>RB Patel</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>C Rububagumya</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>8</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>9</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>DM Nakrani</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>DM Nakrani</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>D Uwimana</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DM Nakrani</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>RG Mukasa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>RG Mukasa</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>D Uwimana</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RG Mukasa</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>EH Dusabemungu</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>C Rububagumya</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>C Rububagumya</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>D Muhumuza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>D Muhumuza</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>D Muhumuza</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>Mohammed Irfan (2)</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>Mohammed Irfan (2)</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>E Niyomugabo</bowler>
+          <non_striker>Mohammed Irfan (2)</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>Mohammed Irfan (2)</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>Mohammed Irfan (2)</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>Mohammed Irfan (2)</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>Mohammed Irfan (2)</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>Mohammed Irfan (2)</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>Mohammed Irfan (2)</batsman>
+          <bowler>V Mitari</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>Mohammed Irfan (2)</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>Mohammed Irfan (2)</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>D Uwimana</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Mohammed Irfan (2)</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>C Waiswa</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>Riazat Ali Shah</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>C Waiswa</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>B Masaba</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>B Masaba</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>B Masaba</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>Riazat Ali Shah</batsman>
+          <bowler>Z Bimenyimana</bowler>
+          <non_striker>B Masaba</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Rwanda</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>E Dusingizimana</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>E Dusingizimana</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>E Dusingizimana</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>E Dusingizimana</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>E Dusingizimana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>E Dusingizimana</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>E Dusingizimana</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>E Dusingizimana</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>E Dusingizimana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>E Dusingizimana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>E Dusingizimana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>E Dusingizimana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>E Dusingizimana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>E Dusingizimana</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>E Dusingizimana</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>E Dusingizimana</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <extras>
+            <byes>4</byes>
+          </extras>
+          <non_striker>C Rububagumya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>C Rububagumya</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>F Nsubuga</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>C Rububagumya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>C Rububagumya</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>C Rububagumya</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RG Mukasa</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>C Rububagumya</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>K Mira</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>K Mira</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>K Mira</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>K Mira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>K Mira</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>K Mira</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>K Mira</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>K Mira</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>K Mira</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>K Mira</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>K Mira</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>K Mira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>K Mira</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>K Mira</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>K Mira</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>K Mira</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>EH Dusabemungu</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>EH Dusabemungu</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>EH Dusabemungu</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>EH Dusabemungu</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>EH Dusabemungu</batsman>
+          <bowler>C Waiswa</bowler>
+          <non_striker>E Niyomugabo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>E Niyomugabo</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RB Patel</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>E Niyomugabo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>B Songa</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>B Songa</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>B Songa</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>B Songa</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>B Songa</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>EH Dusabemungu</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>B Songa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>B Songa</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>EH Dusabemungu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>EH Dusabemungu</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>B Songa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Bilal Hassun</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>EH Dusabemungu</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>B Songa</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>B Songa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>B Songa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>B Songa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>B Songa</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>B Songa</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>B Songa</batsman>
+          <bowler>DM Nakrani</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>B Songa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>B Songa</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>B Songa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>B Songa</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>B Songa</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>B Songa</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Bosco Tuyizere</batsman>
+          <bowler>Mohammed Irfan (2)</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Bosco Tuyizere</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>Bosco Tuyizere</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>Bosco Tuyizere</batsman>
+          <bowler>F Nsubuga</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>Bosco Tuyizere</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>Bosco Tuyizere</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>Bosco Tuyizere</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>Bosco Tuyizere</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Bosco Tuyizere</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>Bosco Tuyizere</batsman>
+          <bowler>F Nsubuga</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>Bosco Tuyizere</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>Bosco Tuyizere</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Bosco Tuyizere</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>D Uwimana</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>D Uwimana</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>V Mitari</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>V Mitari</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>V Mitari</batsman>
+          <bowler>Bilal Hassun</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <non_striker>V Mitari</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>V Mitari</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>V Mitari</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>V Mitari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>V Mitari</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>O Tuyisenge</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <non_striker>V Mitari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>V Mitari</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>Z Bimenyimana</batsman>
+          <bowler>Riazat Ali Shah</bowler>
+          <non_striker>O Tuyisenge</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

@@ -1,0 +1,3272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-08-29</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Gaborone</city>
+    <dates>
+      <date>2018-10-30</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>IT20</match_type>
+    <outcome>
+      <by>
+        <runs>66</runs>
+      </by>
+      <winner>Mozambique</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>FA Cossa</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Mozambique</team>
+      <team>Lesotho</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Mozambique</winner>
+    </toss>
+    <umpires>
+      <umpire>Justine Muzungu</umpire>
+      <umpire>C Thorburn</umpire>
+    </umpires>
+    <venue>Botswana Cricket Association Oval 1</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Mozambique</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>BA Simango</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>BA Simango</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>BA Simango</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>BA Simango</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>BA Simango</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>BA Simango</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>BA Simango</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>BA Simango</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>BA Simango</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>8</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>9</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>TD Chaoana</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>F Damiao Couana</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>F Damiao Couana</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>S Ramataboe</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>F Damiao Couana</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>Kaleem Shah</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>Kaleem Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>Kaleem Shah</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Kaleem Shah</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>Kaleem Shah</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Sarfaraj Patel</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Kaleem Shah</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>Imran Ismail</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>Imran Ismail</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Sameer Patel</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Imran Ismail</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>A Koul</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>A Koul</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>A Koul</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>T Mohapi</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>T Mohapi</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>T Mohapi</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>T Mohapi</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>T Mohapi</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>A Koul</batsman>
+          <bowler>T Mohapi</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>A Koul</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>A Koul</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>A Koul</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>A Koul</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>A Koul</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Ajaz Patel</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Ajaz Patel</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Ajaz Patel</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Ajaz Patel</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Ajaz Patel</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Ajaz Patel</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Ajaz Patel</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>8</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Ajaz Patel</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>A Koul</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>A Koul</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>A Koul</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>A Koul</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>A Koul</batsman>
+          <bowler>Riaz Suleman</bowler>
+          <non_striker>FA Cossa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>FA Cossa</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Riaz Suleman</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>FA Cossa</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>A Koul</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>VE Tembo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>VE Tembo</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>A Koul</batsman>
+          <bowler>M Leporoporo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>VE Tembo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>A Koul</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>VE Tembo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>VE Tembo</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>VE Tembo</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>A Koul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>A Koul</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>VE Tembo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>S Ramataboe</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>A Koul</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>VE Tembo</batsman>
+          <bowler>M Leporoporo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>J Bulele</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>8</ball>
+          <batsman>VE Tembo</batsman>
+          <bowler>M Leporoporo</bowler>
+          <non_striker>J Bulele</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>VE Tembo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>J Bulele</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>SDJJ Dima</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Sarfaraj Patel</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>J Bulele</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>SDJJ Dima</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>JJ Huo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>SDJJ Dima</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>JJ Huo</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>SDJJ Dima</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>JJ Huo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>SDJJ Dima</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>JJ Huo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>JJ Huo</batsman>
+          <bowler>S Ramataboe</bowler>
+          <non_striker>SDJJ Dima</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>SDJJ Dima</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>JJ Huo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>SDJJ Dima</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>JJ Huo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>SDJJ Dima</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>JJ Huo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>SDJJ Dima</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>JJ Huo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>SDJJ Dima</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>JJ Huo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>JJ Huo</batsman>
+          <bowler>Sarfaraj Patel</bowler>
+          <non_striker>SDJJ Dima</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Lesotho</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Riaz Suleman</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>Mohammad Maaz Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>L Emilio</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Riaz Suleman</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>Mohammad Maaz Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>Mohammad Maaz Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>Mohammad Maaz Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>Mohammad Maaz Khan</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Mohammad Maaz Khan</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>Mohammad Maaz Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>Mohammad Maaz Khan</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>Mohammad Maaz Khan</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Imran Ismail</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Mohammad Maaz Khan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Sarfaraj Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>Sarfaraj Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>Sarfaraj Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>Sarfaraj Patel</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>Sarfaraj Patel</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>Sarfaraj Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>Sarfaraj Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Sarfaraj Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>Sarfaraj Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>F Damiao Couana</bowler>
+          <non_striker>Sarfaraj Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Sarfaraj Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Sarfaraj Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>Sarfaraj Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>Sarfaraj Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Sarfaraj Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>Sarfaraj Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>Sarfaraj Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Sarfaraj Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>Sarfaraj Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>Sarfaraj Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>BA Simango</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Sarfaraj Patel</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>JJ Huo</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>AAA Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>AAA Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>AAA Patel</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>BA Simango</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>J Bulele</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>BA Simango</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>SDJJ Dima</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>SDJJ Dima</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>SDJJ Dima</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>SDJJ Dima</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>SDJJ Dima</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>SDJJ Dima</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>SDJJ Dima</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>Sameer Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>Sameer Patel</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Sameer Patel</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>M Leporoporo</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>M Leporoporo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>M Leporoporo</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>M Leporoporo</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>M Leporoporo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>M Leporoporo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>M Leporoporo</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>M Leporoporo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>TD Chaoana</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>TD Chaoana</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>Ajaz Patel</batsman>
+          <bowler>FA Cossa</bowler>
+          <non_striker>C Tlali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>Ajaz Patel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>Ajaz Patel</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>Ajaz Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>Ajaz Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>Ajaz Patel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>C Tlali</batsman>
+          <bowler>Kaleem Shah</bowler>
+          <non_striker>Ajaz Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

@@ -1,0 +1,3081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-08-18</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Worcester</city>
+    <competition>NatWest T20 Blast</competition>
+    <dates>
+      <date>2015-07-10</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>5</wickets>
+      </by>
+      <winner>Warwickshire</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>R Clarke</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Worcestershire</team>
+      <team>Warwickshire</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Warwickshire</winner>
+    </toss>
+    <umpires>
+      <umpire>PJ Hartley</umpire>
+      <umpire>SC Gale</umpire>
+    </umpires>
+    <venue>County Ground, New Road</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Worcestershire</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>DKH Mitchell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>DKH Mitchell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>DKH Mitchell</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>BB McCullum</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DKH Mitchell</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>R Clarke</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>A Javid</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>A Javid</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>RK Oliver</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>RK Oliver</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>RK Oliver</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TR Ambrose</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>C Munro</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>A Javid</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>A Javid</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>JS Patel</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>LJ Evans</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>T Kohler-Cadmore</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>RA Whiteley</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>JE Poysden</bowler>
+          <non_striker>RA Whiteley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RA Whiteley</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RA Whiteley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>RA Whiteley</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RA Whiteley</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>RA Whiteley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>RA Whiteley</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>RA Whiteley</batsman>
+          <bowler>RO Gordon</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>RA Whiteley</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TP Lewis</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RA Whiteley</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>OB Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>OB Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>OB Cox</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>OB Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>OB Cox</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>OB Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>OB Cox</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>OB Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>OB Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>OB Cox</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>OB Cox</batsman>
+          <bowler>OJ Hannon-Dalby</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>OB Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>OB Cox</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>OB Cox</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>OB Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>OB Cox</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>OB Cox</batsman>
+          <bowler>RO Gordon</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>BL D'Oliveira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>BL D'Oliveira</batsman>
+          <bowler>RO Gordon</bowler>
+          <non_striker>OB Cox</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Warwickshire</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>V Chopra</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>V Chopra</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>V Chopra</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>V Chopra</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>J Leach</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>BB McCullum</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>TP Lewis</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>TP Lewis</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>TP Lewis</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>TP Lewis</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>TP Lewis</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>V Chopra</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>TP Lewis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>TP Lewis</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>V Chopra</batsman>
+          <bowler>EG Barnard</bowler>
+          <non_striker>TP Lewis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>TP Lewis</batsman>
+          <bowler>EG Barnard</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>TP Lewis</batsman>
+          <bowler>EG Barnard</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RA Whiteley</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>TP Lewis</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>JS Patel</batsman>
+          <bowler>EG Barnard</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>JS Patel</batsman>
+          <bowler>EG Barnard</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>JS Patel</batsman>
+          <bowler>EG Barnard</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>JS Patel</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>V Chopra</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>JS Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>V Chopra</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>JS Patel</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>V Chopra</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>JS Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>JS Patel</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>JS Patel</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>V Chopra</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>V Chopra</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>JS Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>V Chopra</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>JS Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>JS Patel</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>JS Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>JS Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>JS Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>JS Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>JS Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>JS Patel</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>OB Cox</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>JS Patel</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>DKH Mitchell</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>BL D'Oliveira</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>LJ Evans</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>LJ Evans</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>T Kohler-Cadmore</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>LJ Evans</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>A Javid</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>EG Barnard</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>A Javid</batsman>
+          <bowler>EG Barnard</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>EG Barnard</bowler>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>EG Barnard</bowler>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>EG Barnard</bowler>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>EG Barnard</bowler>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>A Javid</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>A Javid</batsman>
+          <bowler>Saeed Ajmal</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>JD Shantry</bowler>
+          <extras>
+            <byes>4</byes>
+          </extras>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>A Javid</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>A Javid</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>A Javid</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>A Javid</batsman>
+          <bowler>JD Shantry</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>R Clarke</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>A Javid</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>A Javid</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>A Javid</batsman>
+          <bowler>J Leach</bowler>
+          <non_striker>R Clarke</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

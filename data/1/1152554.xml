@@ -1,0 +1,2709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2019-04-22</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Hobart</city>
+    <competition>Big Bash League</competition>
+    <dates>
+      <date>2019-01-29</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>9</wickets>
+      </by>
+      <winner>Hobart Hurricanes</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>DJM Short</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Hobart Hurricanes</team>
+      <team>Brisbane Heat</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Hobart Hurricanes</winner>
+    </toss>
+    <umpires>
+      <umpire>JD Ward</umpire>
+      <umpire>SJ Nogajski</umpire>
+    </umpires>
+    <venue>Bellerive Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Brisbane Heat</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>JP Faulkner</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>JP Faulkner</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>M Bryant</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>M Bryant</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>M Bryant</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>M Bryant</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>M Bryant</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>M Bryant</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>M Bryant</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JC Archer</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>M Bryant</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>CA Lynn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>CA Lynn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>CA Lynn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>JC Archer</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>GJ Bailey</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CA Lynn</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>MT Renshaw</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>BB McCullum</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MS Wade</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MT Renshaw</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>BB McCullum</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>GJ Bailey</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BB McCullum</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JA Freeman</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>CA Rose</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>AI Ross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>AI Ross</batsman>
+          <bowler>DJM Moody</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MS Wade</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AI Ross</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>BCJ Cutting</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>BCJ Cutting</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>BCJ Cutting</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>BCJ Cutting</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>BCJ Cutting</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JC Archer</bowler>
+          <non_striker>BCJ Cutting</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>BCJ Cutting</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BCJ Cutting</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>BCJ Cutting</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BCJ Cutting</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>BCJ Cutting</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>JJ Peirson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>JJ Peirson</batsman>
+          <bowler>JP Faulkner</bowler>
+          <non_striker>BCJ Cutting</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>JJ Peirson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Hobart Hurricanes</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Mujeeb Ur Rahman</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MS Wade</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>JK Lalor</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MT Renshaw</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MJ Swepson</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>MJ Swepson</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MJ Swepson</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>MJ Swepson</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>MJ Swepson</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>MJ Swepson</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>B Doggett</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>8</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>BCJ Cutting</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>CP Jewell</batsman>
+          <bowler>MJ Swepson</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>MJ Swepson</bowler>
+          <non_striker>CP Jewell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

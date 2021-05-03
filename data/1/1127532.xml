@@ -1,0 +1,2646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-06-22</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Richmond</city>
+    <competition>Vitality Blast</competition>
+    <dates>
+      <date>2018-08-05</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>7</wickets>
+      </by>
+      <winner>Glamorgan</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>RAJ Smith</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Middlesex</team>
+      <team>Glamorgan</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Glamorgan</winner>
+    </toss>
+    <umpires>
+      <umpire>GD Lloyd</umpire>
+      <umpire>DJ Millns</umpire>
+    </umpires>
+    <venue>Old Deer Park</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Middlesex</team>
+      <penalty_runs>
+        <post>6</post>
+      </penalty_runs>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>RAJ Smith</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>GG Wagg</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>NRT Gubbins</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SS Eskinazi</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>EJG Morgan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>EJG Morgan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>MG Hogan</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>EJG Morgan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>EJG Morgan</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>EJG Morgan</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>EJG Morgan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>EJG Morgan</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>EJG Morgan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>PR Stirling</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>PR Stirling</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>PR Stirling</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>RAJ Smith</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>JEC Franklin</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>JEC Franklin</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>JEC Franklin</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>RG White</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>RG White</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>RG White</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>CAJ Meschede</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>GFB Scott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>GFB Scott</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>T van der Gugten</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>GFB Scott</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>ST Finn</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>ST Finn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>GG Wagg</bowler>
+          <non_striker>ST Finn</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>ST Finn</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>ST Finn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>ST Finn</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>ST Finn</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>ST Finn</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>AG Salter</bowler>
+          <non_striker>ST Finn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>T van der Gugten</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>ST Finn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>ST Finn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>ST Finn</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>ST Finn</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>RH Patel</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>RH Patel</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>RH Patel</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>RH Patel</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>RH Patel</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>RH Patel</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>RH Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>RH Patel</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>RH Patel</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>RH Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>RH Patel</batsman>
+          <bowler>T van der Gugten</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>RH Patel</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>RH Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>RH Patel</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CA Ingram</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RH Patel</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>TE Barber</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>TE Barber</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>TE Barber</batsman>
+          <bowler>T van der Gugten</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>8</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>TE Barber</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>TE Barber</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>TE Barber</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>TE Barber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>TE Barber</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>JK Fuller</batsman>
+          <bowler>MG Hogan</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>TE Barber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>TE Barber</batsman>
+          <bowler>MG Hogan</bowler>
+          <non_striker>JK Fuller</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>TE Barber</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Glamorgan</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>AHT Donald</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>CAJ Meschede</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>AHT Donald</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>NRT Gubbins</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CAJ Meschede</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>AHT Donald</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>AHT Donald</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>AHT Donald</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>AHT Donald</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>TE Barber</bowler>
+          <non_striker>AHT Donald</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>AHT Donald</batsman>
+          <bowler>TE Barber</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>AHT Donald</batsman>
+          <bowler>TE Barber</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>AHT Donald</batsman>
+          <bowler>TE Barber</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>TE Barber</bowler>
+          <extras>
+            <noballs>2</noballs>
+          </extras>
+          <non_striker>AHT Donald</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>TE Barber</bowler>
+          <non_striker>AHT Donald</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>TE Barber</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AHT Donald</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>TE Barber</bowler>
+          <non_striker>AHT Donald</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>AHT Donald</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>AHT Donald</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>AHT Donald</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>AHT Donald</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>AHT Donald</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>KS Carlson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>ST Finn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>KS Carlson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>JK Fuller</bowler>
+          <non_striker>KS Carlson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>KS Carlson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>KS Carlson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>KS Carlson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>GFB Scott</bowler>
+          <non_striker>KS Carlson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>GFB Scott</bowler>
+          <non_striker>KS Carlson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>GFB Scott</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>KS Carlson</batsman>
+          <bowler>GFB Scott</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SS Eskinazi</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KS Carlson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>GFB Scott</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>GFB Scott</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>RH Patel</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>GFB Scott</bowler>
+          <extras>
+            <byes>4</byes>
+          </extras>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>GFB Scott</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>GFB Scott</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>GFB Scott</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>GFB Scott</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>GFB Scott</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>PR Stirling</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>PR Stirling</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>PR Stirling</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>PR Stirling</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>PR Stirling</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>PR Stirling</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>PR Stirling</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>PR Stirling</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>PR Stirling</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>CB Cooke</batsman>
+          <bowler>PR Stirling</bowler>
+          <non_striker>CA Ingram</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>PR Stirling</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>CA Ingram</batsman>
+          <bowler>PR Stirling</bowler>
+          <non_striker>CB Cooke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

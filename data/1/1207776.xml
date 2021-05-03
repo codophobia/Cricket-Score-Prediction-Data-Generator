@@ -1,0 +1,2823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-09-20</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Manchester</city>
+    <competition>Vitality Blast</competition>
+    <dates>
+      <date>2020-09-18</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <runs>74</runs>
+      </by>
+      <winner>Durham</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>AZ Lees</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Durham</team>
+      <team>Lancashire</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Durham</winner>
+    </toss>
+    <umpires>
+      <umpire>James Middlebrook</umpire>
+      <umpire>SJ O'Shaughnessy</umpire>
+    </umpires>
+    <venue>Old Trafford</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Durham</team>
+      <penalty_runs>
+        <post>5</post>
+      </penalty_runs>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>TW Hartley</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>G Clark</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>G Clark</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>G Clark</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>G Clark</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>G Clark</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>G Clark</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>G Clark</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>G Clark</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>G Clark</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>G Clark</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>G Clark</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>G Clark</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>G Clark</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>G Clark</batsman>
+          <bowler>L Wood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>G Clark</batsman>
+          <bowler>L Wood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DJ Vilas</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>G Clark</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>L Wood</bowler>
+          <non_striker>BA Raine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>BA Raine</batsman>
+          <bowler>L Wood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>L Wood</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>BA Raine</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>BA Raine</batsman>
+          <bowler>L Wood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>BA Raine</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>BA Raine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>BA Raine</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>BA Raine</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>BA Raine</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>BA Raine</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>BA Raine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>BA Raine</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>BA Raine</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>BA Raine</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>LS Livingstone</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BA Raine</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>DG Bedingham</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>DG Bedingham</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>DG Bedingham</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>DG Bedingham</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>DG Bedingham</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RP Jones</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DG Bedingham</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>TW Hartley</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <extras>
+            <wides>3</wides>
+          </extras>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>3</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>LS Livingstone</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SJ Croft</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>F Behardien</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>BA Carse</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>BA Carse</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>BA Carse</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>BA Carse</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>DJ Lamb</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>BA Carse</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>MW Parkinson</bowler>
+          <non_striker>BA Carse</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>BA Carse</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>BA Carse</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>L Wood</bowler>
+          <non_striker>BA Carse</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>L Wood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>L Wood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>L Wood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>L Wood</bowler>
+          <non_striker>BA Carse</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>L Wood</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>BA Carse</batsman>
+          <bowler>L Wood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RP Jones</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BA Carse</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>P Coughlin</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>P Coughlin</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>AZ Lees</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>P Coughlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>P Coughlin</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>P Coughlin</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>AZ Lees</batsman>
+          <bowler>S Mahmood</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>P Coughlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Lancashire</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>AL Davies</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>AL Davies</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>AL Davies</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>AL Davies</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>AL Davies</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>P Coughlin</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AL Davies</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>SJ Croft</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>SJ Croft</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>SJ Croft</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AZ Lees</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SJ Croft</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>DJ Vilas</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>DJ Vilas</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>DJ Vilas</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>DJ Vilas</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>RP Jones</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>RP Jones</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>MJ Potts</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>P Coughlin</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>P Coughlin</bowler>
+          <non_striker>LS Livingstone</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>P Coughlin</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>P Coughlin</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>LS Livingstone</batsman>
+          <bowler>P Coughlin</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>LS Livingstone</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>P Coughlin</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>BA Carse</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>BA Carse</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>BA Carse</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>BA Carse</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>BA Carse</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>BA Carse</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>GID Lavelle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>8</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>GID Lavelle</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>NJ Rimmington</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>GID Lavelle</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>L Wood</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>L Wood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>L Wood</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>L Wood</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>TW Hartley</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>TW Hartley</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>TW Hartley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>TW Hartley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>TW Hartley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>TW Hartley</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>TW Hartley</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>TW Hartley</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>S Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>S Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>S Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>S Mahmood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>L Trevaskis</bowler>
+          <non_striker>S Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>S Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>S Mahmood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>S Mahmood</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>G Clark</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>S Mahmood</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>MJ Potts</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>MW Parkinson</batsman>
+          <bowler>MJ Potts</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>MW Parkinson</batsman>
+          <bowler>S Steel</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>MW Parkinson</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>MW Parkinson</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>S Steel</bowler>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>MW Parkinson</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>MW Parkinson</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>DJ Lamb</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>MW Parkinson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>MW Parkinson</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>MW Parkinson</batsman>
+          <bowler>NJ Rimmington</bowler>
+          <non_striker>DJ Lamb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>G Clark</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MW Parkinson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

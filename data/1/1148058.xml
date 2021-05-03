@@ -1,0 +1,3024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-06-30</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Kuala Lumpur</city>
+    <dates>
+      <date>2018-06-07</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>T20</match_type>
+    <match_type_number>427</match_type_number>
+    <outcome>
+      <by>
+        <runs>147</runs>
+      </by>
+      <winner>Pakistan</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>Nida Dar</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Pakistan</team>
+      <team>Malaysia</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Malaysia</winner>
+    </toss>
+    <umpires>
+      <umpire>Nitin Menon</umpire>
+      <umpire>Sarika Prasad</umpire>
+    </umpires>
+    <venue>Royal Selangor Club</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Pakistan</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Nahida Khan</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Nahida Khan</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Nahida Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Nahida Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Nahida Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Nahida Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>Nahida Khan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Javeria Rauf</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>Javeria Rauf</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Javeria Rauf</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Javeria Khan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>Javeria Khan</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>WA Duraisingam</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Javeria Khan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Sasha Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Nur Nadihirah</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Nur Nadihirah</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Nur Nadihirah</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Nur Nadihirah</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Nur Nadihirah</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Nur Nadihirah</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Zumika Azmi</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>WA Duraisingam</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Bismah Maroof</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Bismah Maroof</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>Bismah Maroof</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>Nain Abidi</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>Nain Abidi</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>Nain Abidi</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>Nain Abidi</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>Nain Abidi</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Nida Dar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>Nida Dar</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>Nida Dar</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>Sana Mir</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>Sana Mir</batsman>
+          <bowler>Ainna Hamizah Hashim</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>Sana Mir</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>Sana Mir</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>Nain Abidi</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Sana Mir</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>Sana Mir</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>Sana Mir</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>Sana Mir</batsman>
+          <bowler>Noor Hayati Zakaria</bowler>
+          <non_striker>Nain Abidi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Malaysia</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Christina Baret</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Christina Baret</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Christina Baret</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Christina Baret</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Christina Baret</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Christina Baret</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Christina Baret</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Diana Baig</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Christina Baret</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Christina Baret</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Christina Baret</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Christina Baret</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Christina Baret</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>Christina Baret</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>WA Duraisingam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>WA Duraisingam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>WA Duraisingam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>WA Duraisingam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>WA Duraisingam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Anam Amin</bowler>
+          <non_striker>WA Duraisingam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>WA Duraisingam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Sana Mir</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>WA Duraisingam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>WA Duraisingam</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Yusrina Yaakop</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>Yusrina Yaakop</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>WA Duraisingam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Nain Abidi</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Yusrina Yaakop</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>Sasha Azmi</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>WA Duraisingam</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>WA Duraisingam</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>WA Duraisingam</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Mahirah Izzati Ismail</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Mahirah Izzati Ismail</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>Mahirah Izzati Ismail</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>Mas Elysa</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Nain Abidi</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Mas Elysa</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>Zumika Azmi</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>Zumika Azmi</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Aina Najwa</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>Aina Najwa</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>Aina Najwa</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>Aina Najwa</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>Sasha Azmi</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Aina Najwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>Sasha Azmi</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Aina Najwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>Sasha Azmi</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Aina Najwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>Sasha Azmi</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Aina Najwa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>Sasha Azmi</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Aina Najwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>Sasha Azmi</batsman>
+          <bowler>Nashra Sandhu</bowler>
+          <non_striker>Aina Najwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>Aina Najwa</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>Aina Najwa</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>Aina Najwa</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>Aina Najwa</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Aina Najwa</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>Aina Najwa</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Javeria Rauf</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Aina Najwa</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Noor Hayati Zakaria</batsman>
+          <bowler>Javeria Khan</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>Noor Hayati Zakaria</batsman>
+          <bowler>Javeria Khan</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>Noor Hayati Zakaria</batsman>
+          <bowler>Javeria Khan</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>Noor Hayati Zakaria</batsman>
+          <bowler>Javeria Khan</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Nain Abidi</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Noor Hayati Zakaria</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>Ainna Hamizah Hashim</batsman>
+          <bowler>Javeria Khan</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>Ainna Hamizah Hashim</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>Nur Nadihirah</batsman>
+          <bowler>Javeria Khan</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>Nur Nadihirah</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>Nur Nadihirah</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>Nur Nadihirah</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>Nur Nadihirah</batsman>
+          <bowler>Nida Dar</bowler>
+          <non_striker>Sasha Azmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Nashra Sandhu</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Nur Nadihirah</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

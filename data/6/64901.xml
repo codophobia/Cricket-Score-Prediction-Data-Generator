@@ -1,0 +1,6126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2021-03-08</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Harare</city>
+    <dates>
+      <date>2004-05-29</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>ODI</match_type>
+    <match_type_number>2133</match_type_number>
+    <outcome>
+      <by>
+        <wickets>8</wickets>
+      </by>
+      <winner>Australia</winner>
+    </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>JN Gillespie</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Zimbabwe</team>
+      <team>Australia</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Australia</winner>
+    </toss>
+    <umpires>
+      <umpire>ID Robinson</umpire>
+      <umpire>SA Bucknor</umpire>
+    </umpires>
+    <venue>Harare Sports Club</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Zimbabwe</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>BRM Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>BRM Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>BRM Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>BRM Taylor</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>JN Gillespie</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>BRM Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>BRM Taylor</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>BRM Taylor</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>BRM Taylor</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>S Matsikenyeri</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>S Matsikenyeri</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SR Watson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>S Matsikenyeri</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>V Sibanda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>V Sibanda</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AC Gilchrist</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>V Sibanda</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>MA Vermeulen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>MA Vermeulen</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>MA Vermeulen</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>A Maregwede</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>A Maregwede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>A Maregwede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>A Maregwede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>A Maregwede</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>A Maregwede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>A Maregwede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>A Maregwede</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>A Maregwede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>A Maregwede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>A Maregwede</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>A Maregwede</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>A Maregwede</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>A Maregwede</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>JN Gillespie</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>T Taibu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>T Taibu</batsman>
+          <bowler>MS Kasprowicz</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>T Taibu</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>7</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>7</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>7</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>6</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>7</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>6</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GD McGrath</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>5</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>SR Watson</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>5</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>6</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>7</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>2</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>3</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>4</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>5</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>ML Nkala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>1</ball>
+          <batsman>ML Nkala</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>ML Nkala</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>2</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>GB Hogg</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>3</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>4</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>5</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>6</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>7</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>1</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>2</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>4</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>5</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>6</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>1</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>2</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>3</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>4</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>5</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>6</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>A Symonds</bowler>
+          <non_striker>T Mupariwa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>48</over>
+          <ball>1</ball>
+          <batsman>T Mupariwa</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>T Mupariwa</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>48</over>
+          <ball>2</ball>
+          <batsman>W Mwayenga</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>E Chigumbura</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>48</over>
+          <ball>3</ball>
+          <batsman>E Chigumbura</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>W Mwayenga</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>E Chigumbura</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>48</over>
+          <ball>4</ball>
+          <batsman>EC Rainsford</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>W Mwayenga</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>48</over>
+          <ball>5</ball>
+          <batsman>W Mwayenga</batsman>
+          <bowler>GB Hogg</bowler>
+          <non_striker>EC Rainsford</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>W Mwayenga</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Australia</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>W Mwayenga</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>W Mwayenga</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>W Mwayenga</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>T Mupariwa</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>8</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>AC Gilchrist</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>AC Gilchrist</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>AC Gilchrist</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>EC Rainsford</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>ML Nkala</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>ML Nkala</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>A Symonds</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>A Symonds</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>W Mwayenga</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>A Symonds</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>T Mupariwa</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>7</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>7</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>S Matsikenyeri</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <batsman>SR Watson</batsman>
+          <bowler>EC Rainsford</bowler>
+          <non_striker>MJ Clarke</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <batsman>MJ Clarke</batsman>
+          <bowler>E Chigumbura</bowler>
+          <non_striker>SR Watson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

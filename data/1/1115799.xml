@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-07-04</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Mount Maunganui</city>
+    <dates>
+      <date>2018-01-01</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <match_type_number>637</match_type_number>
+    <outcome>
+      <result>no result</result>
+    </outcome>
+    <overs>20</overs>
+    <teams>
+      <team>New Zealand</team>
+      <team>West Indies</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>West Indies</winner>
+    </toss>
+    <umpires>
+      <umpire>CM Brown</umpire>
+      <umpire>SB Haig</umpire>
+    </umpires>
+    <venue>Bay Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>New Zealand</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>SS Cottrell</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CAK Walton</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MJ Guptill</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>C Munro</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>SS Cottrell</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>C Munro</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>C Munro</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>C Munro</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>KOK Williams</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>KOK Williams</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>KOK Williams</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>KOK Williams</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>KOK Williams</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>R Powell</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>C Munro</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>KOK Williams</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>KOK Williams</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>GD Phillips</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>S Badree</bowler>
+          <non_striker>TC Bruce</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CR Brathwaite</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>TC Bruce</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>KS Williamson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>KS Williamson</batsman>
+          <bowler>AR Nurse</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

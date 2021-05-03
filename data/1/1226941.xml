@@ -1,0 +1,3286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-11-16</created>
+    <revision>2</revision>
+  </meta>
+  <info>
+    <city>Sydney</city>
+    <competition>Women's Big Bash League</competition>
+    <dates>
+      <date>2020-11-15</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <runs>14</runs>
+      </by>
+      <winner>Adelaide Strikers</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>TJ McPharlin</player_of_match>
+    </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>Sydney Sixers</team>
+        <player>M Darke</player>
+      </supersub>
+    </supersubs>
+    <teams>
+      <team>Adelaide Strikers</team>
+      <team>Sydney Sixers</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Sydney Sixers</winner>
+    </toss>
+    <umpires>
+      <umpire>AK Wilds</umpire>
+      <umpire>D Taylor</umpire>
+    </umpires>
+    <venue>Drummoyne Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Adelaide Strikers</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>TM McGrath</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>TM McGrath</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>TM McGrath</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>TM McGrath</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>TM McGrath</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>TM McGrath</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>EA Perry</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>L Wolvaardt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>L Wolvaardt</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AR Reakes</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>L Wolvaardt</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>S Campbell</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>S Campbell</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>KM Mack</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>KM Mack</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>E Hughes</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KM Mack</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>BE Patterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>BE Patterson</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>BE Patterson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>A Wellington</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>A Wellington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>A Wellington</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AJ Healy</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>A Wellington</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>M Penna</batsman>
+          <bowler>EA Perry</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>M Penna</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>M Penna</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>M Penna</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>M Penna</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>M Penna</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>M Penna</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SR Taylor</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>M Penna</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>M Penna</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>M Penna</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>M Penna</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>E Hughes</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>M Penna</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>M Penna</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>M Penna</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>M Penna</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>M Penna</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>M Penna</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>M Penna</batsman>
+          <bowler>S Campbell</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>M Penna</batsman>
+          <bowler>S Campbell</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>M Penna</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>8</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>S Campbell</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>M Penna</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>M Penna</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>M Penna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>M Penna</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>M Penna</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>EA Burns</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>M Penna</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>E Hughes</bowler>
+          <non_striker>SJ Coyte</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>SJ Coyte</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>SJ Coyte</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>SJ Coyte</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>SJ Coyte</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>SJ Coyte</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SJ Coyte</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>ML Schutt</batsman>
+          <bowler>EA Burns</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>ML Schutt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>ML Schutt</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>ML Schutt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>ML Schutt</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>ML Schutt</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>D van Niekerk</bowler>
+          <non_striker>ML Schutt</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>ML Schutt</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>M Kapp</bowler>
+          <extras>
+            <byes>2</byes>
+          </extras>
+          <non_striker>ML Schutt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>ML Schutt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>ML Schutt</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>TJ McPharlin</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>ML Schutt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>ML Schutt</batsman>
+          <bowler>M Kapp</bowler>
+          <non_striker>TJ McPharlin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Sydney Sixers</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Perry</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>M Darke</in>
+                <out>A Gardner</out>
+                <reason>supersub</reason>
+                <team>Sydney Sixers</team>
+              </match>
+            </match>
+          </replacements>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>ML Schutt</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AJ Healy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>AJ Healy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>AJ Healy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>TM McGrath</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>AJ Healy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>TM McGrath</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>TM McGrath</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>9</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>AJ Healy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>AJ Healy</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>M Penna</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AJ Healy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>TM McGrath</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Wellington</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Perry</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>EA Perry</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>EA Perry</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>M Kapp</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>M Kapp</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>M Kapp</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>D van Niekerk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>D van Niekerk</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>D van Niekerk</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>AR Reakes</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>AR Reakes</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>AR Reakes</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>AR Reakes</batsman>
+          <bowler>A Wellington</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>AR Reakes</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>AR Reakes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>AR Reakes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>AR Reakes</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>AR Reakes</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>AR Reakes</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>AR Reakes</batsman>
+          <bowler>SR Taylor</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>SR Taylor</bowler>
+          <non_striker>AR Reakes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>SR Taylor</bowler>
+          <non_striker>AR Reakes</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>SR Taylor</bowler>
+          <non_striker>AR Reakes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>SR Taylor</bowler>
+          <non_striker>AR Reakes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>SR Taylor</bowler>
+          <non_striker>AR Reakes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>AR Reakes</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>BE Patterson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AR Reakes</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>M Darke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>M Darke</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>M Darke</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>M Darke</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>ML Schutt</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>J Hicks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>J Hicks</batsman>
+          <bowler>ML Schutt</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SR Taylor</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>J Hicks</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>SE Aley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>SE Aley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>SE Aley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>SE Aley</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>SE Aley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>SE Aley</batsman>
+          <bowler>A Price</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>SE Aley</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>ML Schutt</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SE Aley</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>S Campbell</batsman>
+          <bowler>SJ Coyte</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>S Campbell</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>S Campbell</batsman>
+          <bowler>SJ Coyte</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>S Campbell</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>S Campbell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>S Campbell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>8</ball>
+          <batsman>S Campbell</batsman>
+          <bowler>SJ Coyte</bowler>
+          <non_striker>EA Burns</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>S Campbell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>S Campbell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>TM McGrath</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>S Campbell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>EA Burns</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>S Campbell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>EA Burns</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>E Hughes</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>S Campbell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>S Campbell</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>E Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>E Hughes</batsman>
+          <bowler>TM McGrath</bowler>
+          <non_striker>S Campbell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

@@ -1,0 +1,3075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2019-10-30</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Harare</city>
+    <dates>
+      <date>2019-05-05</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>T20</match_type>
+    <match_type_number>626</match_type_number>
+    <outcome>
+      <by>
+        <runs>90</runs>
+      </by>
+      <winner>Uganda</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>D Busingye</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Sierra Leone</team>
+      <team>Uganda</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Uganda</winner>
+    </toss>
+    <umpires>
+      <umpire>IO Oyieko</umpire>
+      <umpire>A Louw</umpire>
+    </umpires>
+    <venue>Old Hararians</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Uganda</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>R Ntono</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>R Ntono</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>R Ntono</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>R Ntono</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>R Ntono</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>R Ntono</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>R Ntono</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>R Ntono</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>R Ntono</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>8</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>M Sheriff</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>M Sheriff</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>NK Bagenda</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>NK Bagenda</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>NK Bagenda</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>AM Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>F Bangur</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>F Bangur</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Adama Kamara</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>J Kowa</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Adama Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>F Najjumba</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>D Busingye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>D Busingye</batsman>
+          <bowler>Aminata Kamara</bowler>
+          <non_striker>F Najjumba</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Sierra Leone</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>M King</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>M King</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>M King</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>M King</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>JM Apio</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>M King</batsman>
+          <bowler>R Musamali</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>M King</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>M King</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>M King</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>M King</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>M King</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>M King</batsman>
+          <bowler>R Musamali</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>M King</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>M King</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>JM Apio</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>M King</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>M King</batsman>
+          <bowler>C Aweko</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>M King</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>M King</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>M King</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>M King</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>M King</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Aminata Kamara</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>Aminata Kamara</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>L Bull</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>M Sankoh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>R Musamali</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>M Sankoh</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>M Sankoh</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>L Bull</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>Adama Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>L Bull</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>Adama Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>L Bull</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>Adama Kamara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>R Musamali</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>R Musamali</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>L Bull</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>Adama Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>L Bull</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>Adama Kamara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>R Musamali</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>L Bull</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>Adama Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>L Bull</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>Adama Kamara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>L Bull</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>Adama Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>L Bull</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>Adama Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>L Bull</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Adama Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <batsman>L Bull</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>Adama Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>Adama Kamara</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Adama Kamara</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>L Bull</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>L Bull</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>L Bull</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>L Bull</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>L Bull</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>L Bull</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>Z Kamara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>Z Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>Z Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>Z Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>Z Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>Z Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>Z Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>Z Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>Z Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>Z Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>Z Kamara</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>NK Bagenda</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Z Kamara</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>I Koroma</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>I Koroma</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>I Koroma</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>I Koroma</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>I Koroma</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>J Kowa</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>K Awino</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>J Kowa</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>M Sheriff</batsman>
+          <bowler>I Nakisuuyi</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>M Sheriff</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>M Sheriff</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>M Sheriff</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>M Sheriff</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>M Sheriff</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>M Sheriff</batsman>
+          <bowler>F Najjumba</bowler>
+          <non_striker>AM Kamara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>M Sheriff</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>M Sheriff</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>AM Kamara</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>M Sheriff</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>AM Kamara</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>F Bangur</batsman>
+          <bowler>C Aweko</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>M Sheriff</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>M Sheriff</batsman>
+          <bowler>C Aweko</bowler>
+          <non_striker>F Bangur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>K Awino</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>M Sheriff</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

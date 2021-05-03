@@ -1,0 +1,3282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-07-06</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Johannesburg</city>
+    <dates>
+      <date>2018-02-18</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <match_type_number>652</match_type_number>
+    <outcome>
+      <by>
+        <runs>28</runs>
+      </by>
+      <winner>India</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>B Kumar</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>India</team>
+      <team>South Africa</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>South Africa</winner>
+    </toss>
+    <umpires>
+      <umpire>AT Holdstock</umpire>
+      <umpire>S George</umpire>
+    </umpires>
+    <venue>The Wanderers Stadium</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>India</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>RG Sharma</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>RG Sharma</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>RG Sharma</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>RG Sharma</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>RG Sharma</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>RG Sharma</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>RG Sharma</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>RG Sharma</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>RG Sharma</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>RG Sharma</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>RG Sharma</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>H Klaasen</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RG Sharma</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>CJ Dala</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>SK Raina</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>SK Raina</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>SK Raina</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CH Morris</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>V Kohli</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>JT Smuts</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>CJ Dala</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <non_striker>S Dhawan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>S Dhawan</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>H Klaasen</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>S Dhawan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>AL Phehlukwayo</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>T Shamsi</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>T Shamsi</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>CH Morris</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>MS Dhoni</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>MS Dhoni</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>MS Dhoni</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>HH Pandya</batsman>
+          <bowler>CH Morris</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>HH Pandya</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>HH Pandya</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>HH Pandya</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>HH Pandya</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>CH Morris</bowler>
+          <non_striker>HH Pandya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>HH Pandya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>HH Pandya</batsman>
+          <bowler>D Paterson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>HH Pandya</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>HH Pandya</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>HH Pandya</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>HH Pandya</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>HH Pandya</batsman>
+          <bowler>D Paterson</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>South Africa</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>JT Smuts</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>JT Smuts</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>JT Smuts</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>JT Smuts</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>JT Smuts</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>JT Smuts</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>JT Smuts</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>JT Smuts</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JD Unadkat</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JT Smuts</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>JT Smuts</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>JT Smuts</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>JT Smuts</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>JT Smuts</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>JT Smuts</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>JT Smuts</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>JT Smuts</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>JT Smuts</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>JT Smuts</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>S Dhawan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JT Smuts</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>JD Unadkat</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>JP Duminy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>JP Duminy</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SK Raina</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JP Duminy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>DA Miller</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>DA Miller</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>DA Miller</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>DA Miller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>DA Miller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>DA Miller</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>DA Miller</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>DA Miller</batsman>
+          <bowler>HH Pandya</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>DA Miller</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>S Dhawan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DA Miller</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>8</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>F Behardien</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>F Behardien</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MK Pandey</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>F Behardien</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>H Klaasen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>H Klaasen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>H Klaasen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>H Klaasen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>H Klaasen</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>H Klaasen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>H Klaasen</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>H Klaasen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>H Klaasen</batsman>
+          <bowler>HH Pandya</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>H Klaasen</batsman>
+          <bowler>HH Pandya</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>H Klaasen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>H Klaasen</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>H Klaasen</batsman>
+          <bowler>HH Pandya</bowler>
+          <non_striker>RR Hendricks</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>RR Hendricks</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>H Klaasen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MS Dhoni</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RR Hendricks</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>H Klaasen</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>AL Phehlukwayo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>H Klaasen</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>AL Phehlukwayo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>H Klaasen</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>AL Phehlukwayo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SK Raina</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>H Klaasen</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>CH Morris</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>AL Phehlukwayo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SK Raina</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CH Morris</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>D Paterson</batsman>
+          <bowler>B Kumar</bowler>
+          <non_striker>AL Phehlukwayo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>D Paterson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>AL Phehlukwayo</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>CJ Dala</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>1</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>AL Phehlukwayo</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>CJ Dala</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>CJ Dala</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>AL Phehlukwayo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>AL Phehlukwayo</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>CJ Dala</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>CJ Dala</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>AL Phehlukwayo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>AL Phehlukwayo</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>CJ Dala</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>CJ Dala</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>AL Phehlukwayo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>AL Phehlukwayo</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>CJ Dala</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>AL Phehlukwayo</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>CJ Dala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>AL Phehlukwayo</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>CJ Dala</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>AL Phehlukwayo</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>CJ Dala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>YS Chahal</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AL Phehlukwayo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>T Shamsi</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>CJ Dala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>T Shamsi</batsman>
+          <bowler>JD Unadkat</bowler>
+          <non_striker>CJ Dala</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

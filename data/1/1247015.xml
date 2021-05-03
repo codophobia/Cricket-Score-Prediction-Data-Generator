@@ -1,0 +1,3072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2021-02-23</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Karachi</city>
+    <competition>Pakistan Super League</competition>
+    <dates>
+      <date>2021-02-23</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>6</wickets>
+      </by>
+      <winner>Peshawar Zalmi</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>T Kohler-Cadmore</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Multan Sultans</team>
+      <team>Peshawar Zalmi</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Peshawar Zalmi</winner>
+    </toss>
+    <umpires>
+      <umpire>Aleem Dar</umpire>
+      <umpire>RK Illingworth</umpire>
+    </umpires>
+    <venue>National Stadium</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Multan Sultans</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>CA Lynn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>CA Lynn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>CA Lynn</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>CA Lynn</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Haider Ali</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CA Lynn</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Mohammad Rizwan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Mohammad Rizwan</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Imam-ul-Haq</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Mohammad Rizwan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mohammad Irfan</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Mujeeb Ur Rahman</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>8</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>Sohaib Maqsood</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Sohaib Maqsood</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Kamran Akmal</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Sohaib Maqsood</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>RR Rossouw</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>RR Rossouw</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>RR Rossouw</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>RR Rossouw</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>RR Rossouw</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>RR Rossouw</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>RR Rossouw</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>S Mahmood</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Mohammad Irfan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JM Vince</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>RR Rossouw</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>Khushdil Shah</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>Khushdil Shah</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>Khushdil Shah</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>Khushdil Shah</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>Khushdil Shah</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>Khushdil Shah</batsman>
+          <bowler>Mohammad Imran (2)</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Peshawar Zalmi</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>Kamran Akmal</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <extras>
+            <byes>4</byes>
+          </extras>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahid Afridi</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Usman Qadir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>Imam-ul-Haq</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>SE Rutherford</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>SE Rutherford</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>SE Rutherford</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SE Rutherford</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>SE Rutherford</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>SE Rutherford</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>8</ball>
+          <batsman>SE Rutherford</batsman>
+          <bowler>Sohail Tanvir</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>SE Rutherford</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>SE Rutherford</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>SE Rutherford</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CR Brathwaite</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SE Rutherford</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>Shoaib Malik</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>T Kohler-Cadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Shoaib Malik</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>T Kohler-Cadmore</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Shoaib Malik</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Sohail Tanvir</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>T Kohler-Cadmore</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Haider Ali</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Shoaib Malik</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>Haider Ali</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Shoaib Malik</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>Haider Ali</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Shoaib Malik</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>Haider Ali</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Shoaib Malik</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>Shoaib Malik</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>Haider Ali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>Haider Ali</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Shoaib Malik</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>Haider Ali</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Shoaib Malik</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>Haider Ali</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Shoaib Malik</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>Haider Ali</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Shoaib Malik</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>Shoaib Malik</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Haider Ali</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>Shoaib Malik</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Haider Ali</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>Shoaib Malik</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Haider Ali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>Shoaib Malik</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Haider Ali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>8</ball>
+          <batsman>Haider Ali</batsman>
+          <bowler>Shahnawaz Dhani</bowler>
+          <non_striker>Shoaib Malik</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

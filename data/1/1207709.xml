@@ -1,0 +1,3255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-09-01</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>London</city>
+    <competition>Vitality Blast</competition>
+    <dates>
+      <date>2020-08-29</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <result>tie</result>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>DJ Bell-Drummond</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Middlesex</team>
+      <team>Kent</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Kent</winner>
+    </toss>
+    <umpires>
+      <umpire>BJ Debenham</umpire>
+      <umpire>NL Bainton</umpire>
+    </umpires>
+    <venue>Lord's</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Middlesex</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>MDE Holden</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>MDE Holden</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>MDE Holden</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>MDE Holden</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MDE Holden</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>MDE Holden</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>MDE Holden</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>MDE Holden</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>MDE Holden</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>ME Milnes</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>MK Andersson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>MK Andersson</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>MK Andersson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>JA Leaning</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>JA Leaning</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>JA Leaning</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>JA Leaning</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>JA Leaning</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>JA Leaning</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>G Stewart</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>CJ Haggett</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>CJ Haggett</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>8</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>CJ Haggett</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>Imran Qayyum</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>AJ Blake</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>AJ Blake</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>NRT Gubbins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>NRT Gubbins</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Z Crawley</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>NRT Gubbins</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>JA Simpson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>JA Simpson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>JA Simpson</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>SS Eskinazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>SS Eskinazi</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>SS Eskinazi</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>DJ Lincoln</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>DJ Lincoln</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>DJ Lincoln</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>DJ Lincoln</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>JA Simpson</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>DJ Lincoln</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>JA Simpson</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>DJ Lincoln</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>DJ Lincoln</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>DJ Lincoln</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>DJ Lincoln</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>DJ Lincoln</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>DJ Lincoln</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>DJ Lincoln</batsman>
+          <bowler>ME Milnes</bowler>
+          <non_striker>JA Simpson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Kent</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TG Helm</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JAR Harris</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TG Helm</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TG Helm</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TG Helm</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>TG Helm</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>8</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>9</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>10</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>NA Sowter</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>Z Crawley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Z Crawley</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MDE Holden</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Z Crawley</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>NA Sowter</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JB Cracknell (sub)</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DJ Bell-Drummond</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ST Finn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MK Andersson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AJ Blake</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>NA Sowter</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>TG Helm</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>TG Helm</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>8</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>TG Helm</bowler>
+          <extras>
+            <noballs>2</noballs>
+          </extras>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>9</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>NRT Gubbins</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>NRT Gubbins</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>NRT Gubbins</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>NRT Gubbins</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>NRT Gubbins</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>NRT Gubbins</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>JM Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ML Cummins</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>JM Cox</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DJ Lincoln</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JM Cox</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>G Stewart</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>G Stewart</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>G Stewart</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>ST Finn</bowler>
+          <non_striker>G Stewart</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>G Stewart</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>G Stewart</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>G Stewart</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>G Stewart</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>G Stewart</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>G Stewart</batsman>
+          <bowler>JAR Harris</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>G Stewart</batsman>
+          <bowler>JAR Harris</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>TG Helm</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>G Stewart</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>G Stewart</batsman>
+          <bowler>TG Helm</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>G Stewart</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>G Stewart</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>OG Robinson</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>OG Robinson</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>OG Robinson</batsman>
+          <bowler>TG Helm</bowler>
+          <non_striker>JA Leaning</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>JA Leaning</batsman>
+          <bowler>TG Helm</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>OG Robinson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

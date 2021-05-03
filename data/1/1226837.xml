@@ -1,0 +1,2422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-12-16</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Hobart</city>
+    <competition>Big Bash League</competition>
+    <dates>
+      <date>2020-12-13</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <runs>145</runs>
+      </by>
+      <winner>Sydney Sixers</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>JR Philippe</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Sydney Sixers</team>
+      <team>Melbourne Renegades</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Melbourne Renegades</winner>
+    </toss>
+    <umpires>
+      <umpire>DM Koch</umpire>
+      <umpire>MW Graham-Smith</umpire>
+    </umpires>
+    <venue>Bellerive Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Sydney Sixers</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>J Edwards</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>J Edwards</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>J Edwards</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>J Edwards</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>J Edwards</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>J Edwards</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>J Edwards</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>J Edwards</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JM Vince</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>JM Vince</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SB Harper</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JM Vince</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JM Holland</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>BAC Howell</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>DP Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>DP Hughes</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KW Richardson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DP Hughes</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>JK Lalor</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>KW Richardson</bowler>
+          <non_striker>JR Philippe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>JR Philippe</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AJ Finch</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JR Philippe</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>DT Christian</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>DT Christian</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>DT Christian</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>JC Silk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>DT Christian</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>JC Silk</batsman>
+          <bowler>JK Lalor</bowler>
+          <non_striker>DT Christian</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Melbourne Renegades</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>GS Sandhu</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>GS Sandhu</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>GS Sandhu</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>GS Sandhu</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DT Christian</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AJ Finch</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>GS Sandhu</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>GS Sandhu</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SNJ O'Keefe</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SB Harper</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>RR Rossouw</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>RR Rossouw</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CR Brathwaite</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RR Rossouw</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JR Philippe</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BJ Webster</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>J Fraser-McGurk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>J Fraser-McGurk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>J Fraser-McGurk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>BAD Manenti</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>J Fraser-McGurk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>J Fraser-McGurk</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SE Marsh</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>BAC Howell</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <non_boundary>1</non_boundary>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>BAC Howell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>J Fraser-McGurk</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>KW Richardson</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>BAC Howell</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>KW Richardson</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>BAC Howell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>BAC Howell</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>KW Richardson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>BAC Howell</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>KW Richardson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JC Silk</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BAC Howell</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>JK Lalor</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>KW Richardson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>GS Sandhu</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JK Lalor</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>P Hatzoglou</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>KW Richardson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>P Hatzoglou</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>KW Richardson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>P Hatzoglou</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>JM Holland</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>KW Richardson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>KW Richardson</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>JM Holland</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>JM Holland</batsman>
+          <bowler>SNJ O'Keefe</bowler>
+          <non_striker>KW Richardson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>JM Holland</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>KW Richardson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>KW Richardson</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>JM Holland</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>JM Holland</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>KW Richardson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>KW Richardson</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>JM Holland</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>KW Richardson</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>JM Holland</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>KW Richardson</batsman>
+          <bowler>CR Brathwaite</bowler>
+          <non_striker>JM Holland</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>JM Holland</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>KW Richardson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>KW Richardson</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>JM Holland</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>KW Richardson</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>JM Holland</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>KW Richardson</batsman>
+          <bowler>BJ Dwarshuis</bowler>
+          <non_striker>JM Holland</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>KW Richardson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

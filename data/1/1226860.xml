@@ -1,0 +1,3163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2021-01-27</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Melbourne</city>
+    <competition>Big Bash League</competition>
+    <dates>
+      <date>2021-01-26</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <runs>11</runs>
+      </by>
+      <winner>Melbourne Renegades</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>Z Evans</player_of_match>
+    </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>Hobart Hurricanes</team>
+        <player>TH David</player>
+      </supersub>
+    </supersubs>
+    <teams>
+      <team>Melbourne Renegades</team>
+      <team>Hobart Hurricanes</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Hobart Hurricanes</winner>
+    </toss>
+    <umpires>
+      <umpire>DR Close</umpire>
+      <umpire>MW Graham-Smith</umpire>
+    </umpires>
+    <venue>Melbourne Cricket Ground</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Melbourne Renegades</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>NP Winter</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>NP Winter</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>NP Winter</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>NP Winter</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>NP Winter</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>NP Winter</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>NP Winter</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AJ Finch</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>NT Ellis</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>RP Meredith</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>SE Marsh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>RP Meredith</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>SE Marsh</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SE Marsh</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>J Fraser-McGurk</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>J Fraser-McGurk</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DJ Malan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>J Fraser-McGurk</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>RP Meredith</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>RP Meredith</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>SB Harper</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>SB Harper</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>SB Harper</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>TH David</in>
+                <out>NP Winter</out>
+                <reason>supersub</reason>
+                <team>Hobart Hurricanes</team>
+              </match>
+            </match>
+          </replacements>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>DJM Short</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>MW Harvey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>MW Harvey</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TH David</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MW Harvey</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>Imad Wasim</batsman>
+          <bowler>RP Meredith</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Imad Wasim</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>Imad Wasim</batsman>
+          <bowler>RP Meredith</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>Imad Wasim</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>Imad Wasim</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>Imad Wasim</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>Imad Wasim</batsman>
+          <bowler>SM Boland</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>Imad Wasim</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>Imad Wasim</batsman>
+          <bowler>SM Boland</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>Imad Wasim</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>BJ Webster</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>BJ Webster</batsman>
+          <bowler>NT Ellis</bowler>
+          <non_striker>Imad Wasim</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Hobart Hurricanes</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>MS Wade</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>MS Wade</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Imad Wasim</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MS Wade</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>BR McDermott</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>BR McDermott</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>BR McDermott</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>BR McDermott</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>BR McDermott</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>BR McDermott</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BJ Webster</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>JA Prestwidge</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>JA Prestwidge</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>JA Prestwidge</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>JA Prestwidge</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>JA Prestwidge</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>JA Prestwidge</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>JA Prestwidge</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>BJ Webster</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>DJM Short</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>DJM Short</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>DJM Short</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>DJ Malan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>DJ Malan</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Z Evans</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DJ Malan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>WG Jacks</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>WG Jacks</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SE Marsh</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>WG Jacks</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>TH David</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>TH David</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>TH David</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>TH David</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>TH David</batsman>
+          <bowler>P Hatzoglou</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>TH David</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>TH David</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>TH David</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>TH David</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>TH David</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Z Evans</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>TH David</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>NT Ellis</batsman>
+          <bowler>W Sutherland</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>NT Ellis</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>NT Ellis</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>NT Ellis</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>NT Ellis</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>PSP Handscomb</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>NT Ellis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>NT Ellis</batsman>
+          <bowler>Imad Wasim</bowler>
+          <non_striker>PSP Handscomb</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>PSP Handscomb</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>SM Boland</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>NT Ellis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>NT Ellis</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>SM Boland</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>NT Ellis</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>SM Boland</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AJ Finch</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>NT Ellis</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>RP Meredith</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>SM Boland</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>RP Meredith</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>SM Boland</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SB Harper</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RP Meredith</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Z Evans</bowler>
+          <non_striker>SM Boland</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

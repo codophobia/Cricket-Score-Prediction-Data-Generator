@@ -1,0 +1,3198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2021-01-28</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Christchurch</city>
+    <competition>New Zealand Cricket Women's Twenty20</competition>
+    <dates>
+      <date>2021-01-11</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <runs>20</runs>
+      </by>
+      <winner>Auckland</winner>
+    </outcome>
+    <overs>20</overs>
+    <teams>
+      <team>Auckland</team>
+      <team>Canterbury</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Canterbury</winner>
+    </toss>
+    <umpires>
+      <umpire>Kim Cotton</umpire>
+      <umpire>Lui Els</umpire>
+    </umpires>
+    <venue>Hagley Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Auckland</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>LR Down</batsman>
+          <bowler>KM Sims</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AM Peterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>LR Down</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>AM Peterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>LR Down</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>AM Peterson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>AM Peterson</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>AM Peterson</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>AM Peterson</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>AM Peterson</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>AM Peterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>AM Peterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>AM Peterson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>AM Peterson</batsman>
+          <bowler>JL Savage</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>AM Peterson</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AE Satterthwaite</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AM Peterson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>LR Down</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>KT Perkins</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>KT Perkins</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>LR Down</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>KT Perkins</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>KT Perkins</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>KT Perkins</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>LR Down</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>LR Down</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>KM Sims</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>LR Down</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>JL Savage</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>LR Down</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>LR Down</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>LR Down</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>LR Down</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>LR Down</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>LR Down</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>LR Down</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>GES Sullivan</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>LR Down</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <batsman>LR Down</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>LR Down</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>LR Down</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>LR Down</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>LR Down</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>LR Down</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>BG Armstrong</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>BG Armstrong</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>GES Sullivan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BG Armstrong</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>LR Down</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>LR Down</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>LR Down</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>LR Down</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>LR Down</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>LR Down</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>LR Down</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>LR Down</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>LR Down</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>LR Down</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>FL Mackay</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>GES Sullivan</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>KJ Havill</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>KE Broadmore</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>KE Broadmore</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>KE Broadmore</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>KE Broadmore</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>KE Broadmore</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>KE Broadmore</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>HR Huddleston</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>S Shahri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>S Shahri</batsman>
+          <bowler>AE Satterthwaite</bowler>
+          <non_striker>HR Huddleston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Canterbury</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>HR Huddleston</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>HR Huddleston</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>NB Cox</batsman>
+          <bowler>HR Huddleston</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>NB Cox</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>NB Cox</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>8</ball>
+          <batsman>NB Cox</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>NB Cox</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>AN Kelly</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>AN Kelly</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>NB Cox</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>NB Cox</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>NB Cox</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>NB Cox</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>NB Cox</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>NB Cox</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>NB Cox</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>FL Mackay</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>FL Mackay</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RSM Lili'i</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>FL Mackay</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AN Kelly</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>BG Armstrong</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>BG Armstrong</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>BG Armstrong</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>BG Armstrong</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>BG Armstrong</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>BG Armstrong</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>BG Armstrong</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>1</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>AE Satterthwaite</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>AE Satterthwaite</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SJ Carnachan</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>AE Satterthwaite</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>KFG Nation</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>KFG Nation</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>KFG Nation</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>KFG Nation</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>AM Peterson</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>KFG Nation</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>FC Jonas</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>KFG Nation</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>KFG Nation</batsman>
+          <bowler>BG Armstrong</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>KFG Nation</batsman>
+          <bowler>BG Armstrong</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>KFG Nation</batsman>
+          <bowler>BG Armstrong</bowler>
+          <non_striker>KE Broadmore</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>BG Armstrong</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>BG Armstrong</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>KE Broadmore</batsman>
+          <bowler>BG Armstrong</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JEI Prasad</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KE Broadmore</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>LEV Hughes</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>LEV Hughes</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>LEV Hughes</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>LEV Hughes</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>LEV Hughes</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>JL Savage</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>JL Savage</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>LR Down</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JL Savage</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>EK Kench</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>LR Down</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>EK Kench</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>GES Sullivan</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>GES Sullivan</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>KFG Nation</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>KFG Nation</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>GES Sullivan</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>KJ Havill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>GES Sullivan</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>KJ Havill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>GES Sullivan</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>KJ Havill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>KJ Havill</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>GES Sullivan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>GES Sullivan</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KJ Havill</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>GES Sullivan</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KJ Havill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>KJ Havill</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>GES Sullivan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>GES Sullivan</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KJ Havill</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>GES Sullivan</batsman>
+          <bowler>JEI Prasad</bowler>
+          <non_striker>KJ Havill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>GES Sullivan</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>KJ Havill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>LR Down</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>GES Sullivan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>KJ Havill</batsman>
+          <bowler>HR Huddleston</bowler>
+          <non_striker>KM Sims</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>BG Armstrong</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KJ Havill</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

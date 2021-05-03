@@ -1,0 +1,3081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2021-02-27</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>New Plymouth</city>
+    <competition>Super Smash</competition>
+    <dates>
+      <date>2018-01-06</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>3</wickets>
+      </by>
+      <winner>Otago</winner>
+    </outcome>
+    <overs>20</overs>
+    <teams>
+      <team>Central Districts</team>
+      <team>Otago</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Central Districts</winner>
+    </toss>
+    <umpires>
+      <umpire>ED Sanders</umpire>
+      <umpire>TJ Parlane</umpire>
+    </umpires>
+    <venue>Pukekura Park</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Central Districts</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>BS Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>8</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>JD Ryder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BS Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BS Smith</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BS Smith</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>JD Ryder</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BS Smith</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>JD Ryder</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>WA Young</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BS Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>WA Young</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>WA Young</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>WA Young</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>WA Young</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>WA Young</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>WA Young</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>BS Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>WA Young</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>BS Smith</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>WA Young</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>BS Smith</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>WA Young</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>WA Young</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>TC Bruce</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>LC Johnson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>WA Young</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>TC Bruce</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>TC Bruce</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>TC Bruce</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>N Wagner</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>TC Bruce</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>TC Bruce</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>TC Bruce</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>TC Bruce</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>TC Bruce</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DC de Boorder</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>TC Bruce</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>JA Clarkson</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>JA Clarkson</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>JA Clarkson</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>JA Clarkson</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>AK Kitchen</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>JA Clarkson</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>JA Clarkson</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>JA Clarkson</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>JA Clarkson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>JA Clarkson</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>JA Clarkson</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>JA Clarkson</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>JA Clarkson</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>JA Clarkson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>D Cleaver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>D Cleaver</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JL Finnie</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>D Cleaver</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>BJ Small</batsman>
+          <bowler>MD Rae</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>BJ Small</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>BJ Small</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>BJ Small</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>BJ Small</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>BJ Small</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>BJ Small</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>BJ Small</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>BJ Small</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>BJ Small</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>BJ Small</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>BJ Small</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>BJ Small</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>BJ Small</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>BJ Small</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DC de Boorder</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>BJ Small</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>SHA Rance</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>AK Kitchen</bowler>
+          <non_striker>SHA Rance</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>SHA Rance</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>SHA Rance</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>MB Bacon</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>SHA Rance</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>SHA Rance</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>SHA Rance</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AK Kitchen</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SHA Rance</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>MB Bacon</bowler>
+          <non_striker>AY Patel</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>AY Patel</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>AY Patel</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>BM Wheeler</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>AY Patel</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>AY Patel</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>S Hicks</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AY Patel</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>BM Tickner</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>BM Tickner</batsman>
+          <bowler>N Wagner</bowler>
+          <non_striker>BM Wheeler</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Otago</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>NT Broom</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>NT Broom</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>NT Broom</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Wheeler</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>NT Broom</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>NT Broom</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>NT Broom</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>NT Broom</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>NT Broom</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>D Cleaver</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>NT Broom</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>S Hicks</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>D Cleaver</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>S Hicks</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>LC Johnson</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>LC Johnson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>LC Johnson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>LC Johnson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>LC Johnson</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>LC Johnson</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>LC Johnson</batsman>
+          <bowler>BM Tickner</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>LC Johnson</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>LC Johnson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>LC Johnson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>LC Johnson</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>LC Johnson</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>LC Johnson</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>LC Johnson</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>LC Johnson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>LC Johnson</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>WA Young</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>LC Johnson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BJ Small</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Wheeler</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>RJ Nicol</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>RJ Nicol</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JA Clarkson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RJ Nicol</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>BM Wheeler</bowler>
+          <non_striker>AK Kitchen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Tickner</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>AK Kitchen</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>AK Kitchen</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>JL Finnie</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>JL Finnie</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>JL Finnie</batsman>
+          <bowler>BM Tickner</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>BJ Small</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>JL Finnie</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>JL Finnie</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>JL Finnie</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>BJ Small</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>JL Finnie</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>1</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>JL Finnie</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>JL Finnie</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>JL Finnie</batsman>
+          <bowler>BJ Small</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>JL Finnie</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>JL Finnie</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>JL Finnie</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>JL Finnie</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>JL Finnie</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>JL Finnie</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>MJG Rippon</batsman>
+          <bowler>SHA Rance</bowler>
+          <non_striker>DC de Boorder</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>DC de Boorder</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>MJG Rippon</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>DC de Boorder</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>N Wagner</batsman>
+          <bowler>AY Patel</bowler>
+          <non_striker>MJG Rippon</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

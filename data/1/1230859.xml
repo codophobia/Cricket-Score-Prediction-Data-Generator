@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-10-05</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Derby</city>
+    <dates>
+      <date>2020-09-30</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>T20</match_type>
+    <match_type_number>879</match_type_number>
+    <outcome>
+      <by>
+        <wickets>3</wickets>
+      </by>
+      <winner>England</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>SS Connell</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>West Indies</team>
+      <team>England</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>England</winner>
+    </toss>
+    <umpires>
+      <umpire>GD Lloyd</umpire>
+      <umpire>S Redfern</umpire>
+    </umpires>
+    <venue>County Ground</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>West Indies</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>DJS Dottin</batsman>
+          <bowler>FR Davies</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>DJS Dottin</batsman>
+          <bowler>FR Davies</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>DJS Dottin</batsman>
+          <bowler>FR Davies</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>DJS Dottin</batsman>
+          <bowler>FR Davies</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>DJS Dottin</batsman>
+          <bowler>FR Davies</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>FR Davies</bowler>
+          <non_striker>DJS Dottin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MK Villiers</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>HK Matthews</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>DJS Dottin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>DJS Dottin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>DJS Dottin</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>DJS Dottin</batsman>
+          <bowler>KH Brunt</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>DJS Dottin</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>FR Davies</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DJS Dottin</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>CN Nation</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>CN Nation</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>CN Nation</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>CN Nation</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>CN Nation</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>CN Nation</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>NY McLean</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>NY McLean</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>NY McLean</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>NY McLean</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>NY McLean</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>NY McLean</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>NY McLean</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>NY McLean</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>KH Brunt</bowler>
+          <non_striker>NY McLean</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>NY McLean</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>NY McLean</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>NY McLean</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>NY McLean</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>SR Taylor</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>NY McLean</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>NY McLean</batsman>
+          <bowler>S Ecclestone</bowler>
+          <non_striker>SR Taylor</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>England</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>SS Connell</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SR Taylor</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>HC Knight</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>AE Jones</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>AE Jones</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>NY McLean</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AE Jones</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>NR Sciver</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>NR Sciver</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>SC Selman</bowler>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>NR Sciver</batsman>
+          <bowler>SC Selman</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>SC Selman</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>SC Selman</bowler>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>SC Selman</bowler>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>SC Selman</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>SC Selman</bowler>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CN Nation</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>TT Beaumont</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>NR Sciver</batsman>
+          <bowler>SC Selman</bowler>
+          <non_striker>KH Brunt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>NR Sciver</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>KH Brunt</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>NR Sciver</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>KH Brunt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>KH Brunt</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>KH Brunt</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>NR Sciver</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>NR Sciver</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>KH Brunt</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>SIR Dunkley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SR Taylor</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KH Brunt</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>S Glenn</batsman>
+          <bowler>SS Connell</bowler>
+          <non_striker>SIR Dunkley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>SIR Dunkley</batsman>
+          <bowler>DJS Dottin</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>S Glenn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>S Glenn</batsman>
+          <bowler>DJS Dottin</bowler>
+          <non_striker>SIR Dunkley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>S Glenn</batsman>
+          <bowler>DJS Dottin</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>SIR Dunkley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>SIR Dunkley</batsman>
+          <bowler>DJS Dottin</bowler>
+          <non_striker>S Glenn</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>SIR Dunkley</batsman>
+          <bowler>DJS Dottin</bowler>
+          <non_striker>S Glenn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>S Glenn</batsman>
+          <bowler>DJS Dottin</bowler>
+          <non_striker>SIR Dunkley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>S Glenn</batsman>
+          <bowler>SC Selman</bowler>
+          <non_striker>SIR Dunkley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>S Glenn</batsman>
+          <bowler>SC Selman</bowler>
+          <non_striker>SIR Dunkley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>S Glenn</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>FC Wilson</batsman>
+          <bowler>SC Selman</bowler>
+          <non_striker>SIR Dunkley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>FC Wilson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>S Ecclestone</batsman>
+          <bowler>SC Selman</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>SIR Dunkley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>SIR Dunkley</batsman>
+          <bowler>SC Selman</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>S Ecclestone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

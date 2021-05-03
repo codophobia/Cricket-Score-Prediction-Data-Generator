@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2019-06-20</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Kigali City</city>
+    <dates>
+      <date>2019-06-18</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>T20</match_type>
+    <match_type_number>668</match_type_number>
+    <outcome>
+      <by>
+        <wickets>10</wickets>
+      </by>
+      <winner>Rwanda</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>J Nyirankundineza</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Rwanda</team>
+      <team>Mali</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Mali</winner>
+    </toss>
+    <umpires>
+      <umpire>Vicky Prajapati</umpire>
+      <umpire>Jackson Nzayisenga</umpire>
+    </umpires>
+    <venue>Gahanga International Cricket Stadium. Rwanda</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Mali</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>M Samake</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>R Cisse</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>M Samake</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>R Cisse</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>M Samake</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>R Cisse</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>M Samake</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>R Cisse</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>M Samake</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>R Cisse</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>M Samake</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>R Cisse</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>R Cisse</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>M Samake</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>A Uwimbabazi</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>R Cisse</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>M Samake</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MD Bimenyimana</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>M Samake</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>O Sow</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>O Sow</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>O Sow</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>O Sow</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>O Sow</batsman>
+          <bowler>M Vumiliya</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>O Sow</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>O Sow</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>A Kone</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>A Kone</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>A Kone</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>A Kone</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>N Traore</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>M Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>N Traore</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>M Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>N Traore</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>M Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>N Traore</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>M Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>N Traore</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>M Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>N Traore</batsman>
+          <bowler>MD Bimenyimana</bowler>
+          <non_striker>M Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>M Coulibaly</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>A Ikuzwe</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>M Coulibaly</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>T Konate</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>N Traore</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>N Traore</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>T Konate</batsman>
+          <bowler>M Vumiliya</bowler>
+          <non_striker>A Sangare</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>A Sangare</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <non_striker>T Konate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>A Sangare</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <non_striker>T Konate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>A Sangare</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <non_striker>T Konate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>A Sangare</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <non_striker>T Konate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>A Sangare</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <non_striker>T Konate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>A Sangare</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <non_striker>T Konate</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>A Sangare</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>T Konate</batsman>
+          <bowler>V Iriho</bowler>
+          <non_striker>Y Sangare</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>T Konate</batsman>
+          <bowler>V Iriho</bowler>
+          <non_striker>Y Sangare</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>T Konate</batsman>
+          <bowler>V Iriho</bowler>
+          <non_striker>Y Sangare</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>T Konate</batsman>
+          <bowler>V Iriho</bowler>
+          <non_striker>Y Sangare</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>T Konate</batsman>
+          <bowler>V Iriho</bowler>
+          <non_striker>Y Sangare</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>T Konate</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>B Coulibaly</batsman>
+          <bowler>V Iriho</bowler>
+          <non_striker>Y Sangare</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>Y Sangare</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <non_striker>B Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>Y Sangare</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <non_striker>B Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>Y Sangare</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>S Kagnassy</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <extras>
+            <byes>2</byes>
+          </extras>
+          <non_striker>B Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>S Kagnassy</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <non_striker>B Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>S Kagnassy</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <non_striker>B Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>S Kagnassy</batsman>
+          <bowler>J Nyirankundineza</bowler>
+          <non_striker>B Coulibaly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>S Kagnassy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Rwanda</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>A Uwimbabazi</batsman>
+          <bowler>Y Sangare</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>J Nyirankundineza</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>A Uwimbabazi</batsman>
+          <bowler>Y Sangare</bowler>
+          <non_striker>J Nyirankundineza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>J Nyirankundineza</batsman>
+          <bowler>Y Sangare</bowler>
+          <non_striker>A Uwimbabazi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>A Uwimbabazi</batsman>
+          <bowler>Y Sangare</bowler>
+          <non_striker>J Nyirankundineza</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>J Nyirankundineza</batsman>
+          <bowler>Y Sangare</bowler>
+          <non_striker>A Uwimbabazi</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

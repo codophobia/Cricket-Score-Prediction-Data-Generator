@@ -1,0 +1,2604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-08-24</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Chester-le-Street</city>
+    <competition>NatWest T20 Blast</competition>
+    <dates>
+      <date>2014-06-29</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>8</wickets>
+      </by>
+      <winner>Durham</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>JW Hastings</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Derbyshire</team>
+      <team>Durham</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Durham</winner>
+    </toss>
+    <umpires>
+      <umpire>RT Robinson</umpire>
+      <umpire>NL Bainton</umpire>
+    </umpires>
+    <venue>Riverside Ground</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Derbyshire</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>WJ Durston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>WJ Durston</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>WJ Durston</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>WJ Durston</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>WJ Durston</batsman>
+          <bowler>U Arshad</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>WJ Durston</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>WJ Durston</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>WJ Durston</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>WJ Durston</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>WJ Durston</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>GD Cross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>GD Cross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>GD Cross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>GD Cross</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>GD Cross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>GD Cross</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>GD Cross</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>GD Cross</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>GD Cross</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>GD Cross</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>GD Cross</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>GD Cross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>GD Cross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>GD Cross</batsman>
+          <bowler>JW Hastings</bowler>
+          <extras>
+            <noballs>2</noballs>
+          </extras>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>2</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>GD Cross</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>GD Cross</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>PD Collingwood</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>GD Cross</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>WL Madsen</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>WL Madsen</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>CF Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>CF Hughes</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>CF Hughes</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>MJ North</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>MJ North</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>MJ North</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>WL Madsen</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>MJ North</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>WL Madsen</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>MJ North</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>WL Madsen</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>MJ North</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>WL Madsen</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>MJ North</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>MJ North</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>MJ North</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>MJ North</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>MJ North</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>MJ North</batsman>
+          <bowler>JW Hastings</bowler>
+          <extras>
+            <noballs>2</noballs>
+          </extras>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>2</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>WL Madsen</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>MJ North</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>WL Madsen</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>MJ North</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>WL Madsen</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>MJ North</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>MJ North</batsman>
+          <bowler>JW Hastings</bowler>
+          <non_striker>WL Madsen</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>PD Collingwood</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MJ North</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>WL Madsen</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>SL Elstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>WL Madsen</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>SL Elstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>SL Elstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>SL Elstone</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>SL Elstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>SL Elstone</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>SL Elstone</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>SL Elstone</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>SL Elstone</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SG Borthwick</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SL Elstone</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AP Palladino</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>AP Palladino</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AP Palladino</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>AP Palladino</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>AP Palladino</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>AP Palladino</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>AP Palladino</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>AP Palladino</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>AP Palladino</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AP Palladino</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>AP Palladino</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AP Palladino</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>AP Palladino</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AP Palladino</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>AP Palladino</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>AP Palladino</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>AP Palladino</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CS MacLeod</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AP Palladino</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Wainwright</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>DJ Wainwright</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>DJ Wainwright</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>DJ Wainwright</batsman>
+          <bowler>PD Collingwood</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>DJ Wainwright</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>DJ Wainwright</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>DJ Wainwright</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>DJ Wainwright</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>P Mustard</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>DJ Wainwright</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>RD Pringle</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>GR Breese</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>BA Stokes</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>GTG Cork</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>GTG Cork</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>BA Stokes</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>GTG Cork</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>ML Turner</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>ML Turner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>AL Hughes</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>ML Turner</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>ML Turner</batsman>
+          <bowler>U Arshad</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>8</ball>
+          <batsman>ML Turner</batsman>
+          <bowler>U Arshad</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>ML Turner</batsman>
+          <bowler>BA Stokes</bowler>
+          <non_striker>AL Hughes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>PD Collingwood</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>ML Turner</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Durham</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>MD Stoneman</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>P Mustard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>MD Stoneman</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>P Mustard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>MD Stoneman</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>P Mustard</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>MD Stoneman</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>P Mustard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>MD Stoneman</batsman>
+          <bowler>AP Palladino</bowler>
+          <non_striker>P Mustard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>AP Palladino</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>AP Palladino</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>AP Palladino</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>MD Stoneman</batsman>
+          <bowler>AP Palladino</bowler>
+          <non_striker>P Mustard</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>MD Stoneman</batsman>
+          <bowler>AP Palladino</bowler>
+          <non_striker>P Mustard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>MD Stoneman</batsman>
+          <bowler>AP Palladino</bowler>
+          <non_striker>P Mustard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>AP Palladino</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>AP Palladino</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>AP Palladino</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>MD Stoneman</batsman>
+          <bowler>AP Palladino</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>P Mustard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>AP Palladino</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>P Mustard</batsman>
+          <bowler>ML Turner</bowler>
+          <non_striker>MD Stoneman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>P Mustard</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>MD Stoneman</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>MD Stoneman</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>MD Stoneman</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>WJ Durston</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>AL Hughes</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>AL Hughes</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DJ Wainwright</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DJ Wainwright</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DJ Wainwright</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>DJ Wainwright</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>DJ Wainwright</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>DJ Wainwright</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>AL Hughes</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GTG Cork</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>CS MacLeod</batsman>
+          <bowler>GTG Cork</bowler>
+          <non_striker>BA Stokes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>DJ Wainwright</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>BA Stokes</batsman>
+          <bowler>DJ Wainwright</bowler>
+          <non_striker>CS MacLeod</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

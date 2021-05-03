@@ -1,0 +1,3105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-07-20</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>London</city>
+    <competition>NatWest T20 Blast</competition>
+    <dates>
+      <date>2017-07-14</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>8</wickets>
+      </by>
+      <winner>Kent</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>JL Denly</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Surrey</team>
+      <team>Kent</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Kent</winner>
+    </toss>
+    <umpires>
+      <umpire>RK Illingworth</umpire>
+      <umpire>JW Lloyds</umpire>
+    </umpires>
+    <venue>Kennington Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Surrey</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>MT Coles</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JDS Neesham</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>JDS Neesham</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>ME Claydon</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>JJ Roy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <batsman>JJ Roy</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>AJ Finch</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>JC Tredwell</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JJ Roy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>AJ Finch</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>AJ Finch</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JL Denly</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>JC Tredwell</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>KC Sangakkara</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>KC Sangakkara</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>AJ Blake</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KC Sangakkara</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>AF Milne</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>MT Coles</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>JDS Neesham</bowler>
+          <non_striker>DP Sibley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>DP Sibley</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>DP Sibley</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>SM Curran</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>SM Curran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>SM Curran</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>AF Milne</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>ME Claydon</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>ME Claydon</bowler>
+          <extras>
+            <byes>4</byes>
+          </extras>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>TK Curran</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>OJ Pope</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>OJ Pope</batsman>
+          <bowler>ME Claydon</bowler>
+          <non_striker>TK Curran</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Kent</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>SM Curran</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>DP Sibley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>GJ Batty</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>OJ Pope</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DJ Bell-Drummond</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>SW Billings</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>SW Billings</batsman>
+          <bowler>JW Dernbach</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>SW Billings</batsman>
+          <bowler>JW Dernbach</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>8</ball>
+          <batsman>SW Billings</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>SW Billings</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>SW Billings</batsman>
+          <bowler>SM Curran</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>SW Billings</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>SW Billings</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>SW Billings</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>SW Billings</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>SW Billings</batsman>
+          <bowler>SM Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>SW Billings</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>SW Billings</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>SW Billings</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>SW Billings</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>SW Billings</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TK Curran</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SW Billings</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>JW Dernbach</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>TK Curran</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>TK Curran</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>AJ Blake</batsman>
+          <bowler>R Rampaul</bowler>
+          <non_striker>JL Denly</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>JL Denly</batsman>
+          <bowler>R Rampaul</bowler>
+          <extras>
+            <noballs>2</noballs>
+          </extras>
+          <non_striker>AJ Blake</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

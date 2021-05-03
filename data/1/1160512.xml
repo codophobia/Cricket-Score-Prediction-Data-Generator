@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2021-02-21</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Dunedin</city>
+    <competition>Super Smash</competition>
+    <dates>
+      <date>2019-01-13</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <result>no result</result>
+    </outcome>
+    <overs>20</overs>
+    <teams>
+      <team>Auckland</team>
+      <team>Otago</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Otago</winner>
+    </toss>
+    <umpires>
+      <umpire>JM Dempsey</umpire>
+      <umpire>SB Haig</umpire>
+    </umpires>
+    <venue>University Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Auckland</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JL Finnie</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>C Munro</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JL Finnie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>JA Duffy</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>NG Smith</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>NG Smith</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>NG Smith</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>NG Smith</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>NG Smith</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>NG Smith</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>NG Smith</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>NG Smith</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>NG Smith</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>NG Smith</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>NG Smith</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>NG Smith</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>NG Smith</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>MJG Rippon</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>BA Raine</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>JS Hunter</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>JS Hunter</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JS Hunter</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>JS Hunter</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JS Hunter</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>JS Hunter</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

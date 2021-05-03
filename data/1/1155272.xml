@@ -1,0 +1,3248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-09-14</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Suva</city>
+    <dates>
+      <date>2018-08-25</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>IT20</match_type>
+    <outcome>
+      <by>
+        <wickets>3</wickets>
+      </by>
+      <winner>Fiji</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>M Beitaki</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Fiji</team>
+      <team>Vanuatu</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Fiji</winner>
+    </toss>
+    <umpires>
+      <umpire>Hitesh Sharma</umpire>
+      <umpire>A Kapa</umpire>
+    </umpires>
+    <venue>Albert Park 1</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Vanuatu</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>R Tari</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>R Tari</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>R Tari</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>R Tari</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>R Tari</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>R Tari</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>R Tari</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>R Tari</batsman>
+          <bowler>KSB Tavo</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>R Tari</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>M Beitaki</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>R Tari</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>PK Matautaava</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>PK Matautaava</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>PK Matautaava</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>PK Matautaava</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>J Rasu</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>J Rasu</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>J Veikauyaki</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>J Rasu</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>C Tommy</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>PK Matautaava</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>PK Matautaava</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>C Tommy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>PK Matautaava</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>C Tommy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>M Beitaki</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>PK Matautaava</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>C Tommy</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Dunn</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>C Tommy</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Dunn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>C Tommy</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Dunn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Riyad Khan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>C Tommy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Dunn</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>J Dunn</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>J Dunn</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>J Dunn</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>J Dunn</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>J Dunn</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>J Batinibulu</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>MB Gauna</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>MB Gauna</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>MB Gauna</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>MB Gauna</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>MB Gauna</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>MB Gauna</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>S Ravoka</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>S Ravoka</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>S Ravoka</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>S Ravoka</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>S Ravoka</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>S Ravoka</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>Riyad Khan</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>S Ravoka</bowler>
+          <non_striker>A Mansale</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>A Mansale</batsman>
+          <bowler>S Ravoka</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>A Mansale</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>J Vira</batsman>
+          <bowler>S Ravoka</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>S Ravoka</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>S Ravoka</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>J Vira</batsman>
+          <bowler>S Ravoka</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>PV Vuniwaqa</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>PV Vuniwaqa</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>PV Vuniwaqa</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>PV Vuniwaqa</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>J Vira</batsman>
+          <bowler>PV Vuniwaqa</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>J Vira</batsman>
+          <bowler>PV Vuniwaqa</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>PV Vuniwaqa</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>8</ball>
+          <batsman>J Vira</batsman>
+          <bowler>PV Vuniwaqa</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>J Vira</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>J Vira</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>KSB Tavo</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>J Vira</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>KSB Tavo</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>J Vira</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>J Vira</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>N Nipiko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>N Nipiko</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>M Beitaki</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>N Nipiko</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>J Vira</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>JW Chilia</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>JW Chilia</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>J Vira</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>JW Chilia</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>JW Chilia</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>J Vira</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>JW Chilia</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>JW Chilia</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KSB Tavo</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>JW Chilia</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>J Vira</batsman>
+          <bowler>J Batinibulu</bowler>
+          <non_striker>W Viraliliu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>W Viraliliu</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>J Vira</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>W Viraliliu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>W Viraliliu</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>PV Vuniwaqa</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>W Viraliliu</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>J Vira</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>W Nalisa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>J Vira</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>W Nalisa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>W Nalisa</batsman>
+          <bowler>J Kida</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>J Vira</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>W Nalisa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>J Vira</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>W Nalisa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>J Vira</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>W Nalisa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>J Vira</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>W Nalisa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>W Nalisa</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>W Nalisa</batsman>
+          <bowler>T Tavo</bowler>
+          <non_striker>J Vira</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Fiji</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>1</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>8</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>J Kida</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>J Kida</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>J Kida</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>J Kida</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>J Kida</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>J Kida</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>J Kida</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>J Kida</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>J Kida</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>J Kida</batsman>
+          <bowler>PK Matautaava</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>J Kida</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>J Kida</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>J Kida</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Viraliliu</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>J Kida</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>J Kida</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>J Kida</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>J Kida</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>J Kida</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>J Kida</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>W Nalisa</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>J Kida</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>W Nalisa</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>W Nalisa</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>1</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>W Nalisa</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Nalisa</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Nalisa</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>W Nalisa</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>W Nalisa</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>PK Matautaava</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>M Beitaki</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>PK Matautaava</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>M Beitaki</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>M Beitaki</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>PK Matautaava</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>8</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>JW Chilia</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>MB Gauna</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>A Mansale</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>MB Gauna</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>SM Tupou</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>MB Gauna</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>SM Tupou</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SM Tupou</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>J Veikauyaki</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>J Veikauyaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>J Veikauyaki</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>J Veikauyaki</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>J Veikauyaki</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>J Batinibulu</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>J Batinibulu</batsman>
+          <bowler>PK Matautaava</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>J Batinibulu</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>J Batinibulu</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>J Batinibulu</batsman>
+          <bowler>PK Matautaava</bowler>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>J Batinibulu</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>S Ravoka</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>S Ravoka</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>S Ravoka</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>S Ravoka</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>S Ravoka</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>S Ravoka</batsman>
+          <bowler>W Viraliliu</bowler>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>S Ravoka</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>S Ravoka</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>N Nipiko</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>S Ravoka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>S Ravoka</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>W Nalisa</fielder>
+              </fielders>
+              <kind>run out</kind>
+              <player_out>S Ravoka</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>KSB Tavo</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>KSB Tavo</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>PV Vuniwaqa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>PV Vuniwaqa</batsman>
+          <bowler>N Nipiko</bowler>
+          <non_striker>KSB Tavo</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

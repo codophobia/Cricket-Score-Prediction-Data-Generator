@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-09-09</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Kuala Lumpur</city>
+    <dates>
+      <date>2018-10-09</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>IT20</match_type>
+    <outcome>
+      <by>
+        <wickets>8</wickets>
+      </by>
+      <method>D/L</method>
+      <winner>Malaysia</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>Pavandeep Singh</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Myanmar</team>
+      <team>Malaysia</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Malaysia</winner>
+    </toss>
+    <umpires>
+      <umpire>DN Subedi</umpire>
+      <umpire>Tabarak Dar</umpire>
+    </umpires>
+    <venue>Bayuemas Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Myanmar</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>KK Lin Thu</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>KK Lin Thu</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Y Naing Tun</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>Y Naing Tun</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>Y Naing Tun</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Khin Aye</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>Khin Aye</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>Khin Aye</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>Khin Aye</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>Khin Aye</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>Khin Aye</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>Khin Aye</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Khin Aye</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>Khin Aye</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Khin Aye</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>Khin Aye</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>Khin Aye</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Anwar Arudin</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Khin Aye</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>H Lin Oo</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>H Lin Oo</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>H Lin Oo</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>H Lin Oo</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>H Lin Aung</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>H Lin Oo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>H Lin Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>H Lin Oo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>S Muniandy</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>H Lin Aung</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>Paing Danu</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>H Lin Oo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Paing Danu</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>H Lin Oo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>H Lin Oo</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>Paing Danu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>H Lin Oo</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <extras>
+            <byes>3</byes>
+          </extras>
+          <non_striker>Paing Danu</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>3</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Paing Danu</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Oo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Paing Danu</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Thuya Aung</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Oo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Thuya Aung</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Oo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Thuya Aung</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>Pavandeep Singh</bowler>
+          <non_striker>H Lin Oo</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>H Lin Oo</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>YK Ko Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>H Lin Oo</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>YK Ko Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>H Lin Oo</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Y Naing Kyaw</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>Y Naing Kyaw</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>Y Naing Kyaw</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>YK Ko Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>Y Naing Kyaw</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Aung Ko Ko</batsman>
+          <bowler>Anwar Rahman</bowler>
+          <non_striker>YK Ko Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>SKG Krishnan</bowler>
+          <non_striker>Aung Ko Ko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>SKG Krishnan</bowler>
+          <non_striker>Aung Ko Ko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Aung Ko Ko</batsman>
+          <bowler>SKG Krishnan</bowler>
+          <non_striker>YK Ko Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>Aung Ko Ko</batsman>
+          <bowler>SKG Krishnan</bowler>
+          <non_striker>YK Ko Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Aung Ko Ko</batsman>
+          <bowler>SKG Krishnan</bowler>
+          <non_striker>YK Ko Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>Aung Ko Ko</batsman>
+          <bowler>SKG Krishnan</bowler>
+          <non_striker>YK Ko Aung</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>Virandeep Singh</bowler>
+          <non_striker>Aung Ko Ko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>Virandeep Singh</bowler>
+          <non_striker>Aung Ko Ko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>Virandeep Singh</bowler>
+          <non_striker>Aung Ko Ko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>Virandeep Singh</bowler>
+          <non_striker>Aung Ko Ko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>Virandeep Singh</bowler>
+          <non_striker>Aung Ko Ko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>Virandeep Singh</bowler>
+          <non_striker>Aung Ko Ko</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>YK Ko Aung</batsman>
+          <bowler>SKG Krishnan</bowler>
+          <non_striker>Aung Ko Ko</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Malaysia</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Anwar Arudin</batsman>
+          <bowler>Paing Danu</bowler>
+          <non_striker>Shafiq Sharif</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Anwar Arudin</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Suhan Alagaratnam</batsman>
+          <bowler>Paing Danu</bowler>
+          <non_striker>Shafiq Sharif</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>Suhan Alagaratnam</batsman>
+          <bowler>Paing Danu</bowler>
+          <non_striker>Shafiq Sharif</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>Shafiq Sharif</batsman>
+          <bowler>Paing Danu</bowler>
+          <non_striker>Suhan Alagaratnam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Shafiq Sharif</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>S Muniandy</batsman>
+          <bowler>Paing Danu</bowler>
+          <non_striker>Suhan Alagaratnam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>S Muniandy</batsman>
+          <bowler>Paing Danu</bowler>
+          <non_striker>Suhan Alagaratnam</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>S Muniandy</batsman>
+          <bowler>Khin Aye</bowler>
+          <non_striker>Suhan Alagaratnam</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>S Muniandy</batsman>
+          <bowler>Khin Aye</bowler>
+          <non_striker>Suhan Alagaratnam</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>S Muniandy</batsman>
+          <bowler>Khin Aye</bowler>
+          <non_striker>Suhan Alagaratnam</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Suhan Alagaratnam</batsman>
+          <bowler>Khin Aye</bowler>
+          <non_striker>S Muniandy</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

@@ -1,0 +1,2844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2019-10-24</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Dubai</city>
+    <dates>
+      <date>2019-10-22</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <match_type_number>956</match_type_number>
+    <outcome>
+      <by>
+        <wickets>5</wickets>
+      </by>
+      <winner>Netherlands</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>RE van der Merwe</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Netherlands</team>
+      <team>Singapore</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Singapore</winner>
+    </toss>
+    <umpires>
+      <umpire>Ahsan Raza</umpire>
+      <umpire>R Black</umpire>
+    </umpires>
+    <venue>ICC Academy</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Singapore</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>TH David</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>TH David</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>TH David</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>TH David</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>TH David</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>TH David</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>TH David</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>TH David</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>TH David</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>TH David</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>TH David</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>TH David</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>TH David</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>TH David</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>TH David</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>TH David</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>TH David</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>TH David</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>TH David</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>TH David</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>TH David</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>TH David</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PM Seelaar</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>S Chandramohan</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>S Chandramohan</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CN Ackermann</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>S Chandramohan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>Manpreet Singh</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>Manpreet Singh</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>Manpreet Singh</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>Manpreet Singh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>Manpreet Singh</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>Manpreet Singh</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>Manpreet Singh</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>Manpreet Singh</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>Aritra Dutta</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>PA van Meekeren</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Manpreet Singh</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>Aritra Dutta</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SA Edwards</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Aritra Dutta</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>Janak Prakash</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>Janak Prakash</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>Janak Prakash</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>Janak Prakash</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Janak Prakash</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>Sidhant Singh</batsman>
+          <bowler>BD Glover</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>Sidhant Singh</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>Sidhant Singh</batsman>
+          <bowler>CN Ackermann</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>Sidhant Singh</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>Sidhant Singh</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Sidhant Singh</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Sidhant Singh</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>Sidhant Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>Sidhant Singh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>Sidhant Singh</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Sidhant Singh</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>Sidhant Singh</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>V Baskaran</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>V Baskaran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>V Baskaran</batsman>
+          <bowler>RE van der Merwe</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>V Baskaran</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>V Baskaran</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>V Baskaran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>V Baskaran</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>V Baskaran</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>CN Ackermann</bowler>
+          <non_striker>V Baskaran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>V Baskaran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>V Baskaran</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>V Baskaran</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>V Baskaran</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>V Baskaran</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>S Vijayakumar</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>S Vijayakumar</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>S Vijayakumar</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>S Vijayakumar</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SA Edwards</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>S Vijayakumar</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>Amjad Mahboob</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>Amjad Mahboob</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>Amjad Mahboob</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Amjad Mahboob</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>AAhan Achar</batsman>
+          <bowler>T van der Gugten</bowler>
+          <non_striker>NMS Param</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>AAhan Achar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>AAhan Achar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>AAhan Achar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>AAhan Achar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>AAhan Achar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>NMS Param</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>AAhan Achar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SA Edwards</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>NMS Param</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Netherlands</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>TP Visee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>TP Visee</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>TP Visee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>TP Visee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>TP Visee</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>TP Visee</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>TP Visee</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>TP Visee</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>TP Visee</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>TP Visee</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>S Chandramohan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>TP Visee</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>BN Cooper</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>BN Cooper</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>BN Cooper</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>BN Cooper</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>BN Cooper</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>BN Cooper</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>BN Cooper</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>BN Cooper</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Manpreet Singh</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BN Cooper</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>Amjad Mahboob</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>Janak Prakash</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Manpreet Singh</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>MP O'Dowd</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>RN ten Doeschate</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>RN ten Doeschate</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>RN ten Doeschate</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>Sidhant Singh</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>Sidhant Singh</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TH David</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>PM Seelaar</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>Sidhant Singh</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>Sidhant Singh</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>Sidhant Singh</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>Sidhant Singh</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Sidhant Singh</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>8</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Sidhant Singh</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>AAhan Achar</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Janak Prakash</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>Janak Prakash</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>S Vijayakumar</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>V Baskaran</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>TH David</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>CN Ackermann</batsman>
+          <bowler>TH David</bowler>
+          <non_striker>RE van der Merwe</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>RE van der Merwe</batsman>
+          <bowler>TH David</bowler>
+          <non_striker>CN Ackermann</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

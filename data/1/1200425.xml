@@ -1,0 +1,3228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2019-09-17</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Dublin</city>
+    <dates>
+      <date>2019-09-16</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <match_type_number>884</match_type_number>
+    <outcome>
+      <by>
+        <runs>58</runs>
+      </by>
+      <winner>Scotland</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>HG Munsey</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Netherlands</team>
+      <team>Scotland</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Netherlands</winner>
+    </toss>
+    <umpires>
+      <umpire>DH Mclean</umpire>
+      <umpire>AJ Neill</umpire>
+    </umpires>
+    <venue>The Village, Malahide</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Scotland</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>8</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>BFW de Leede</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>BFW de Leede</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>BFW de Leede</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>BFW de Leede</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>BFW de Leede</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>BFW de Leede</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>BFW de Leede</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>8</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>MP O'Dowd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>MP O'Dowd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>MP O'Dowd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>MP O'Dowd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>MP O'Dowd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>MP O'Dowd</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>KJ Coetzer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>PM Seelaar</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>KJ Coetzer</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SA Edwards</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KJ Coetzer</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>MA Leask</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>BN Cooper</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MA Leask</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>C Floyd</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>PA van Meekeren</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>1</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>8</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>FJ Klaassen</bowler>
+          <non_striker>RD Berrington</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>S Snater</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>RD Berrington</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>HG Munsey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>BN Cooper</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RD Berrington</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>OJ Hairs</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>S Snater</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>OJ Hairs</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>8</ball>
+          <batsman>HG Munsey</batsman>
+          <bowler>S Snater</bowler>
+          <non_striker>OJ Hairs</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Netherlands</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>TP Visee</batsman>
+          <bowler>SM Sharif</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>TP Visee</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>TP Visee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>TP Visee</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>TP Visee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>TP Visee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>TP Visee</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>caught and bowled</kind>
+              <player_out>TP Visee</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>BN Cooper</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>BN Cooper</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>BN Cooper</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>BN Cooper</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MA Leask</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BN Cooper</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>MP O'Dowd</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>MP O'Dowd</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>MP O'Dowd</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>BFW de Leede</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>BFW de Leede</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CS MacLeod</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>BFW de Leede</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>SM Sharif</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>RD Berrington</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>SM Sharif</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>1</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MA Leask</bowler>
+          <non_striker>SA Edwards</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>SA Edwards</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SA Edwards</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>AJ Staal</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>AJ Staal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>AJ Staal</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>AJ Staal</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>AJ Staal</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>AJ Staal</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>AJ Staal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>AJ Staal</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>AJ Staal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>AJ Staal</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>AJ Staal</batsman>
+          <bowler>A Neill</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>AJ Staal</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MRJ Watt</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AJ Staal</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>S Snater</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>S Snater</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>S Snater</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>S Snater</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>S Snater</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>MRJ Watt</bowler>
+          <non_striker>S Snater</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>S Snater</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>S Snater</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>S Snater</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>S Snater</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>S Snater</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>S Snater</batsman>
+          <bowler>A Neill</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>CS MacLeod</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>S Snater</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>C Floyd</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>C Floyd</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>C Floyd</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>C Floyd</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>C Floyd</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>SM Sharif</bowler>
+          <non_striker>C Floyd</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>C Floyd</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>C Floyd</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>C Floyd</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>C Floyd</batsman>
+          <bowler>AC Evans</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>PM Seelaar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>C Floyd</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>PM Seelaar</batsman>
+          <bowler>AC Evans</bowler>
+          <non_striker>C Floyd</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

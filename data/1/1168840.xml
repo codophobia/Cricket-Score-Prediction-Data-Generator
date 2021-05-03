@@ -1,0 +1,3237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-03-20</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Dubai</city>
+    <competition>Pakistan Super League</competition>
+    <dates>
+      <date>2019-03-01</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>4</wickets>
+      </by>
+      <winner>Peshawar Zalmi</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>LA Dawson</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Islamabad United</team>
+      <team>Peshawar Zalmi</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Peshawar Zalmi</winner>
+    </toss>
+    <umpires>
+      <umpire>REJ Martinesz</umpire>
+      <umpire>Shozab Raza</umpire>
+    </umpires>
+    <venue>Dubai International Cricket Stadium</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Islamabad United</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>L Ronchi</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>L Ronchi</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>L Ronchi</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>L Ronchi</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>L Ronchi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>L Ronchi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>L Ronchi</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Umar Amin</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>L Ronchi</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Umaid Asif</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>PD Salt</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>PD Salt</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>ADS Fletcher</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>PD Salt</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>Ibtisam Sheikh</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>LA Dawson</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>KA Pollard</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>CAK Walton</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>CAK Walton</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>CAK Walton</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Asif Ali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Asif Ali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>Asif Ali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>Asif Ali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>CS Delport</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>Asif Ali</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>CS Delport</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>Asif Ali</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>LA Dawson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CS Delport</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Nasir Nawaz</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>Asif Ali</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>Nasir Nawaz</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>Asif Ali</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Umaid Asif</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>Asif Ali</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Wahab Riaz</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Asif Ali</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>Nasir Nawaz</batsman>
+          <bowler>Umaid Asif</bowler>
+          <non_striker>Faheem Ashraf</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>Faheem Ashraf</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>Faheem Ashraf</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>Faheem Ashraf</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>Faheem Ashraf</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>Nasir Nawaz</batsman>
+          <bowler>Hasan Ali</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Faheem Ashraf</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>Faheem Ashraf</batsman>
+          <bowler>Hasan Ali</bowler>
+          <non_striker>Nasir Nawaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Faheem Ashraf</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>Nasir Nawaz</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Shadab Khan</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>Nasir Nawaz</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>Shadab Khan</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Zafar Gohar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Shadab Khan</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>Mohammad Sami</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Zafar Gohar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>Zafar Gohar</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Mohammad Sami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>Zafar Gohar</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <non_striker>Mohammad Sami</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>Zafar Gohar</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Mohammad Sami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>Zafar Gohar</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>Mohammad Sami</batsman>
+          <bowler>Wahab Riaz</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Rumman Raees</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>Mohammad Sami</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Peshawar Zalmi</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>Kamran Akmal</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Kamran Akmal</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Shadab Khan</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Kamran Akmal</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>ADS Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>ADS Fletcher</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>L Ronchi</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>ADS Fletcher</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Umar Amin</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Umar Amin</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Umar Amin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Umar Amin</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Umar Amin</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>Umar Amin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>Umar Amin</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>Umar Amin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>Umar Amin</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Umar Amin</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>Umar Amin</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Imam-ul-Haq</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>Imam-ul-Haq</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Umar Amin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>Imam-ul-Haq</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Umar Amin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Umar Amin</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Umar Amin</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>Umar Amin</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>Umar Amin</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>Umar Amin</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Amad Butt (sub)</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Umar Amin</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <extras>
+            <legbyes>4</legbyes>
+          </extras>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>Shadab Khan</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>KA Pollard</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>KA Pollard</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>L Ronchi</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>KA Pollard</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <extras>
+            <byes>4</byes>
+          </extras>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>4</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>1</extras>
+            <total>7</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Zafar Gohar</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Rumman Raees</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Rumman Raees</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Faheem Ashraf</bowler>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>DJG Sammy</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>DJG Sammy</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>LA Dawson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>DJG Sammy</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>LA Dawson</batsman>
+          <bowler>Mohammad Sami</bowler>
+          <non_striker>Wahab Riaz</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

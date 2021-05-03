@@ -1,0 +1,5148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-04-09</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Dubai</city>
+    <dates>
+      <date>2019-01-25</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>ODI</match_type>
+    <match_type_number>4083</match_type_number>
+    <outcome>
+      <by>
+        <wickets>3</wickets>
+      </by>
+      <winner>United Arab Emirates</winner>
+    </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>Amir Hayat</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>United Arab Emirates</team>
+      <team>Nepal</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>United Arab Emirates</winner>
+    </toss>
+    <umpires>
+      <umpire>Akbar Ali</umpire>
+      <umpire>Nitin Menon</umpire>
+    </umpires>
+    <venue>ICC Academy</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Nepal</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>G Malla</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>G Malla</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>G Malla</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>G Malla</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Ghulam Shabber</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>G Malla</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>B Bhandari</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>B Bhandari</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Ghulam Shabber</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>B Bhandari</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>8</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>P Khadka</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>P Khadka</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Amir Hayat</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>P Khadka</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>DS Airee</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>DS Airee</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>DS Airee</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>DS Airee</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>DS Airee</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>DS Airee</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Qadeer Ahmed</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Mohammad Boota</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Sompal Kami</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>Sompal Kami</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>Sompal Kami</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>P Sarraf</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>P Sarraf</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>P Sarraf</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>P Sarraf</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>P Sarraf</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>Karan KC</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>Karan KC</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Karan KC</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>Karan KC</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Karan KC</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Karan KC</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>Karan KC</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>Karan KC</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Karan KC</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>Karan KC</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>Karan KC</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>Karan KC</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Ghulam Shabber</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Karan KC</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>B Regmi</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>B Regmi</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>B Regmi</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>B Regmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>B Regmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>B Regmi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>B Regmi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>B Regmi</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Ashfaq Ahmed</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>B Regmi</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>7</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>7</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>8</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>Aarif Sheikh</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <batsman>Aarif Sheikh</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Qadeer Ahmed</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Aarif Sheikh</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>LN Rajbanshi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>LN Rajbanshi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Mohammad Naveed</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>LN Rajbanshi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>LN Rajbanshi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Imran Haider</bowler>
+          <non_striker>LN Rajbanshi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>LN Rajbanshi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>LN Rajbanshi</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>4</ball>
+          <batsman>LN Rajbanshi</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>S Lamichhane</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>5</ball>
+          <batsman>S Lamichhane</batsman>
+          <bowler>Amir Hayat</bowler>
+          <non_striker>LN Rajbanshi</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Shaiman Anwar</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>S Lamichhane</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>United Arab Emirates</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>Ashfaq Ahmed</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>Ashfaq Ahmed</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ashfaq Ahmed</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ashfaq Ahmed</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ashfaq Ahmed</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ashfaq Ahmed</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>Ashfaq Ahmed</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>Ashfaq Ahmed</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>Ashfaq Ahmed</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>Ashfaq Ahmed</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>Ashfaq Ahmed</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>lbw</kind>
+              <player_out>Ashfaq Ahmed</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>Chirag Suri</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>Chirag Suri</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>B Bhandari</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Chirag Suri</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Sompal Kami</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Shaiman Anwar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Shaiman Anwar</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Sompal Kami</bowler>
+          <extras>
+            <wides>5</wides>
+          </extras>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>5</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Sompal Kami</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Shaiman Anwar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Shaiman Anwar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Shaiman Anwar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>8</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Shaiman Anwar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Shaiman Anwar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Shaiman Anwar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Shaiman Anwar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>Shaiman Anwar</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Shaiman Anwar</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>Muhammad Usman</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>Muhammad Usman</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>Muhammad Usman</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>Muhammad Usman</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>Muhammad Usman</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>Muhammad Usman</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>Muhammad Usman</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>Muhammad Usman</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>Muhammad Usman</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>Karan KC</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>Muhammad Usman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>Muhammad Usman</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>Muhammad Usman</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>B Bhandari</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Muhammad Usman</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>Fahad Nawaz</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>Fahad Nawaz</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>Fahad Nawaz</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>Fahad Nawaz</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Fahad Nawaz</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Fahad Nawaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Fahad Nawaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Fahad Nawaz</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Fahad Nawaz</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>Fahad Nawaz</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Fahad Nawaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Fahad Nawaz</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Fahad Nawaz</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>Fahad Nawaz</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>Fahad Nawaz</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Fahad Nawaz</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>Fahad Nawaz</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Fahad Nawaz</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>Fahad Nawaz</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Fahad Nawaz</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>Mohammad Boota</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>Mohammad Boota</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>Mohammad Boota</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Mohammad Boota</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Mohammad Boota</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Mohammad Boota</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>Mohammad Boota</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>Mohammad Boota</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Ghulam Shabber</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Mohammad Boota</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Mohammad Boota</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>Ghulam Shabber</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Mohammad Boota</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DS Airee</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Ghulam Shabber</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Mohammad Boota</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Mohammad Boota</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Mohammad Boota</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Mohammad Boota</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>Mohammad Boota</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>Mohammad Boota</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>B Bhandari</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>Mohammad Boota</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>7</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Karan KC</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>B Regmi</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>B Regmi</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>B Regmi</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>B Regmi</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>B Regmi</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>B Regmi</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>Sompal Kami</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <batsman>Imran Haider</batsman>
+          <bowler>P Khadka</bowler>
+          <non_striker>Amir Hayat</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <batsman>Amir Hayat</batsman>
+          <bowler>S Lamichhane</bowler>
+          <non_striker>Imran Haider</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

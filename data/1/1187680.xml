@@ -1,0 +1,3397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-02-09</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Wellington</city>
+    <dates>
+      <date>2020-01-31</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <match_type_number>1036</match_type_number>
+    <outcome>
+      <eliminator>India</eliminator>
+      <result>tie</result>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>SN Thakur</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>New Zealand</team>
+      <team>India</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>New Zealand</winner>
+    </toss>
+    <umpires>
+      <umpire>CM Brown</umpire>
+      <umpire>SB Haig</umpire>
+    </umpires>
+    <venue>Westpac Stadium</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>India</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>TG Southee</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SV Samson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>SV Samson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>SV Samson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>SV Samson</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>SV Samson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>SV Samson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>SV Samson</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>SV Samson</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>SV Samson</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>SV Samson</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>SV Samson</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MJ Santner</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SV Samson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>9</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>TG Southee</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MJ Santner</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>V Kohli</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>SS Iyer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>SS Iyer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>SS Iyer</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>SS Iyer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>SS Iyer</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>SS Iyer</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TL Seifert</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SS Iyer</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>S Dube</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>S Dube</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>S Dube</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>S Dube</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>S Dube</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>S Dube</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>KL Rahul</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>MJ Santner</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KL Rahul</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>S Dube</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>S Dube</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>S Dube</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>S Dube</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TC Bruce</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>S Dube</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>Washington Sundar</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>Washington Sundar</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>Washington Sundar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>Washington Sundar</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>Washington Sundar</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>Washington Sundar</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>Washington Sundar</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>Washington Sundar</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>IS Sodhi</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>MJ Santner</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>HK Bennett</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>TG Southee</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>TG Southee</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>TG Southee</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>SN Thakur</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>SN Thakur</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TG Southee</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SN Thakur</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>YS Chahal</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>YS Chahal</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>YS Chahal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>YS Chahal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>YS Chahal</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>YS Chahal</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>YS Chahal</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>YS Chahal</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TL Seifert</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>YS Chahal</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>NA Saini</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>NA Saini</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>NA Saini</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>NA Saini</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>NA Saini</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>NA Saini</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>NA Saini</batsman>
+          <bowler>HK Bennett</bowler>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>NA Saini</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>NA Saini</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>NA Saini</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NA Saini</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>NA Saini</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>MK Pandey</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <non_striker>NA Saini</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>NA Saini</batsman>
+          <bowler>SC Kuggeleijn</bowler>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>MK Pandey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>New Zealand</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SN Thakur</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>MJ Guptill</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>MJ Guptill</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>KL Rahul</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>MJ Guptill</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SN Thakur</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>C Munro</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>C Munro</batsman>
+          <bowler>Washington Sundar</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>NA Saini</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <batsman>C Munro</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>S Dube</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>C Munro</batsman>
+          <bowler>S Dube</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>S Dube</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>C Munro</batsman>
+          <bowler>S Dube</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>C Munro</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>S Dube</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>S Dube</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>TC Bruce</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>TC Bruce</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>S Dube</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>S Dube</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>S Dube</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>S Dube</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>S Dube</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>S Dube</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>YS Chahal</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>7</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>YS Chahal</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>LRPL Taylor</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>NA Saini</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>LRPL Taylor</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SS Iyer</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>LRPL Taylor</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>DJ Mitchell</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>DJ Mitchell</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>TL Seifert</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>TL Seifert</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>MJ Santner</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>DJ Mitchell</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>DJ Mitchell</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>MJ Santner</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>S Dube</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>DJ Mitchell</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>MJ Santner</batsman>
+          <bowler>SN Thakur</bowler>
+          <non_striker>SC Kuggeleijn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>MJ Santner</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>3</inningsNumber>
+      <team>New Zealand</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>TL Seifert</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>C Munro</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Washington Sundar</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>TL Seifert</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>SC Kuggeleijn</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>C Munro</batsman>
+          <bowler>JJ Bumrah</bowler>
+          <non_striker>SC Kuggeleijn</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>4</inningsNumber>
+      <team>India</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>KL Rahul</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>V Kohli</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>SC Kuggeleijn</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KL Rahul</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>SV Samson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>V Kohli</batsman>
+          <bowler>TG Southee</bowler>
+          <non_striker>SV Samson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

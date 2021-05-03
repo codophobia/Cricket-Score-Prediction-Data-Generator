@@ -1,0 +1,2919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2021-02-21</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Christchurch</city>
+    <competition>Super Smash</competition>
+    <dates>
+      <date>2019-01-26</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <wickets>9</wickets>
+      </by>
+      <winner>Auckland</winner>
+    </outcome>
+    <overs>20</overs>
+    <teams>
+      <team>Canterbury</team>
+      <team>Auckland</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Canterbury</winner>
+    </toss>
+    <umpires>
+      <umpire>A Mehrotra</umpire>
+      <umpire>Damian Morrow</umpire>
+    </umpires>
+    <venue>Hagley Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Canterbury</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>TJ MacRury</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>MR Quinn</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>TJ MacRury</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>TJ MacRury</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>TJ MacRury</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>TJ MacRury</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>TJ MacRury</batsman>
+          <bowler>MR Quinn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <batsman>TJ MacRury</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Craig Cachopa</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>TJ MacRury</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>SJ Murdoch</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>SJ Murdoch</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>SJ Murdoch</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>SJ Murdoch</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>SJ Murdoch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>SJ Murdoch</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>SJ Murdoch</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>SJ Murdoch</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>SJ Murdoch</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>SJ Murdoch</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>SJ Murdoch</batsman>
+          <bowler>MR Quinn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>SJ Murdoch</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RR O'Donnell</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>SJ Murdoch</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CE McConchie</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CE McConchie</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CE McConchie</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CE McConchie</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CE McConchie</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>CE McConchie</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>CE McConchie</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CJ Bowes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>CE McConchie</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>CJ Bowes</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>CE McConchie</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>DJ Grobbelaar</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CJ Bowes</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>AM Ellis</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>CE McConchie</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>CE McConchie</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>AM Ellis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>AM Ellis</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>CE McConchie</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>AM Ellis</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>CE McConchie</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>CE McConchie</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>AM Ellis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RM Hira</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CE McConchie</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>AM Ellis</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>AM Ellis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>AM Ellis</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>AM Ellis</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>AM Ellis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>AM Ellis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>AM Ellis</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>AM Ellis</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>AM Ellis</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>AM Ellis</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>GD Phillips</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>AM Ellis</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>HB Shipley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>HB Shipley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>HB Shipley</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>HB Shipley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>HB Shipley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>HB Shipley</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>HB Shipley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>HB Shipley</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>HB Shipley</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>HB Shipley</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>WER Somerville</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>RM Hira</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>1</extras>
+            <total>5</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>DJ Grobbelaar</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>CD Fletcher</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MJ McClenaghan</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>CD Fletcher</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>WER Somerville</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CD Fletcher</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>TD Astle</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>KA Jamieson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>KA Jamieson</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>TD Astle</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>Craig Cachopa</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>KA Jamieson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>WSA Williams</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>TD Astle</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>TD Astle</batsman>
+          <bowler>MR Quinn</bowler>
+          <non_striker>WSA Williams</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Auckland</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>3</batsman>
+            <extras>0</extras>
+            <total>3</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>HB Shipley</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>EJ Nuttall</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>WSA Williams</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>WSA Williams</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>WSA Williams</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>WSA Williams</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>WSA Williams</bowler>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>WSA Williams</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>WSA Williams</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>GD Phillips</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>TD Astle</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>GD Phillips</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>TD Astle</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>GD Phillips</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>MS Chapman</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>MS Chapman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>MS Chapman</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>MS Chapman</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>MS Chapman</batsman>
+          <bowler>KA Jamieson</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>DJ Bell-Drummond</batsman>
+          <bowler>WSA Williams</bowler>
+          <non_striker>MS Chapman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>MS Chapman</batsman>
+          <bowler>WSA Williams</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>MS Chapman</batsman>
+          <bowler>WSA Williams</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>MS Chapman</batsman>
+          <bowler>WSA Williams</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>MS Chapman</batsman>
+          <bowler>WSA Williams</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>MS Chapman</batsman>
+          <bowler>WSA Williams</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>MS Chapman</batsman>
+          <bowler>WSA Williams</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>MS Chapman</batsman>
+          <bowler>CE McConchie</bowler>
+          <non_striker>DJ Bell-Drummond</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>

@@ -1,0 +1,3204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-11-08</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Sydney</city>
+    <competition>Women's Big Bash League</competition>
+    <dates>
+      <date>2020-11-08</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <by>
+        <runs>1</runs>
+      </by>
+      <winner>Sydney Thunder</winner>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>HC Knight</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Sydney Thunder</team>
+      <team>Hobart Hurricanes</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Hobart Hurricanes</winner>
+    </toss>
+    <umpires>
+      <umpire>TJ Matibiri</umpire>
+      <umpire>SE Dionysius</umpire>
+    </umpires>
+    <venue>Hurstville Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Sydney Thunder</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>R Trenaman</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>R Trenaman</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>R Trenaman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>R Trenaman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>R Trenaman</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>R Trenaman</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>R Trenaman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>HK Matthews</bowler>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <non_striker>R Trenaman</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>2</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>R Trenaman</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RH Priest</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>R Trenaman</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>SJ Johnson</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>SJ Johnson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>SJ Johnson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <batsman>SJ Johnson</batsman>
+          <bowler>HK Matthews</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <batsman>SJ Johnson</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>SJ Johnson</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>SJ Johnson</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>SJ Johnson</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>SJ Johnson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Vakarewa</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>SJ Johnson</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>SJ Johnson</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>SJ Johnson</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>SJ Johnson</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>SJ Johnson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Hepburn</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>B Hepburn</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>CL Tryon</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>CL Tryon</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>CL Tryon</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>CL Tryon</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>CL Tryon</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>CL Tryon</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>A Smith</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>TT Beaumont</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>TT Beaumont</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>TT Beaumont</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>B Hepburn</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>RL Haynes</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>RL Haynes</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>NJ Carey</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>RL Haynes</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>SK Moloney</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>P Litchfield</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>P Litchfield</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>P Litchfield</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>B Hepburn</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>P Litchfield</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>P Litchfield</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>P Litchfield</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>P Litchfield</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>P Litchfield</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>NJ Carey</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>P Litchfield</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>P Litchfield</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>P Litchfield</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>P Litchfield</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RH Priest</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>P Litchfield</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>LG Smith</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>A Smith</bowler>
+          <non_striker>LG Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>LG Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>LG Smith</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>LG Smith</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>LG Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>LG Smith</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>LG Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>LG Smith</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>LG Smith</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>LG Smith</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>LG Smith</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>LG Smith</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>T Wilson</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>T Wilson</batsman>
+          <bowler>HK Matthews</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>run out</kind>
+              <player_out>T Wilson</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>HJ Darlington</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>HJ Darlington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>HJ Darlington</batsman>
+          <bowler>B Vakarewa</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>HJ Darlington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>HJ Darlington</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>HC Knight</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>HC Knight</batsman>
+          <bowler>B Vakarewa</bowler>
+          <non_striker>HJ Darlington</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Hobart Hurricanes</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>NE Stalenberg</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <batsman>NE Stalenberg</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>T Wilson</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>NE Stalenberg</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>2</batsman>
+            <extras>0</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SL Bates</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>HK Matthews</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <batsman>HK Matthews</batsman>
+          <bowler>S Ismail</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>P Litchfield</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>HK Matthews</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>LG Smith</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>LG Smith</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>LG Smith</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>LG Smith</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>LG Smith</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>LG Smith</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>R Trenaman</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>R Trenaman</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>R Trenaman</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>R Trenaman</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>R Trenaman</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>R Trenaman</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>4</batsman>
+            <extras>0</extras>
+            <total>4</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>NJ Carey</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <batsman>NJ Carey</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>RL Haynes</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>NJ Carey</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <batsman>CL Tryon</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <batsman>CL Tryon</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <batsman>CL Tryon</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <batsman>CL Tryon</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SJ Johnson</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <batsman>CL Tryon</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <batsman>CL Tryon</batsman>
+          <bowler>HC Knight</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <batsman>CL Tryon</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>1</extras>
+            <total>2</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <batsman>CL Tryon</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>CL Tryon</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <batsman>CL Tryon</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <batsman>CL Tryon</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>HC Knight</fielder>
+              </fielders>
+              <kind>caught</kind>
+              <player_out>CL Tryon</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <batsman>CL Hall</batsman>
+          <bowler>HC Knight</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <batsman>CL Hall</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>CL Hall</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <batsman>SK Moloney</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <batsman>SK Moloney</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>SK Moloney</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>SK Moloney</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <batsman>SK Moloney</batsman>
+          <bowler>HC Knight</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <batsman>SK Moloney</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>SK Moloney</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <batsman>SK Moloney</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <batsman>SK Moloney</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <fielders>
+                <fielder>T Wilson</fielder>
+              </fielders>
+              <kind>stumped</kind>
+              <player_out>SK Moloney</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <batsman>E Kershaw</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>SL Bates</bowler>
+          <non_striker>E Kershaw</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <batsman>E Kershaw</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+          <wickets>
+            <wicket>
+              <kind>bowled</kind>
+              <player_out>E Kershaw</player_out>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <batsman>B Vakarewa</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>RH Priest</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>B Vakarewa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>B Vakarewa</non_striker>
+          <runs>
+            <batsman>6</batsman>
+            <extras>0</extras>
+            <total>6</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>B Vakarewa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>1</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>B Vakarewa</non_striker>
+          <runs>
+            <batsman>0</batsman>
+            <extras>0</extras>
+            <total>0</total>
+          </runs>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <batsman>RH Priest</batsman>
+          <bowler>HJ Darlington</bowler>
+          <non_striker>B Vakarewa</non_striker>
+          <runs>
+            <batsman>1</batsman>
+            <extras>0</extras>
+            <total>1</total>
+          </runs>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
