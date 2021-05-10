@@ -10,18 +10,18 @@ import datetime
 c = 0
 flag = 0
 
-csvfile = open('ipl.csv','w')
+csvfile = open('all_matches.csv','w')
 def create_dataset(full,total,win):
-	# The output csv will be stored in file name ipl.csv
+    # The output csv will be stored in file name all_matches.csv
 
-	spamwriter = csv.writer(csvfile, delimiter=',',
-							quoting=csv.QUOTE_MINIMAL)
-	global flag
-	for r in full:
-		if(flag == 0):
-			spamwriter.writerow(["mid", "date","venue","format","tournament","gender","bat_team","bowl_team","batsman","bowler","runs","wickets","overs","runs_last_5","wickets_last_5","striker","non-striker","total","win"])
-			flag = 1
-		spamwriter.writerow([r[0], r[1],r[2],r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],r[12],r[13],r[14],r[15],r[16],total,win])
+    spamwriter = csv.writer(csvfile, delimiter=',',
+                            quoting=csv.QUOTE_MINIMAL)
+    global flag
+    for r in full:
+        if(flag == 0):
+            spamwriter.writerow(["mid", "date","venue","format","tournament","gender","bat_team","bowl_team","batsman","bowler","runs","wickets","overs","runs_last_5","wickets_last_5","striker","non-striker","total","win"])
+            flag = 1
+        spamwriter.writerow([r[0], r[1],r[2],r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],r[12],r[13],r[14],r[15],r[16],total,win])
 
 def scorecard():
 
@@ -34,13 +34,13 @@ def scorecard():
 	c = 0
 
 	ballcnt = 0
-	folders = os.listdir('data') # Keep all the files inside the data folder
+	folders = os.listdir('../data') # Keep all the files inside the data folder
 	for folder in sorted(folders):
-		files = os.listdir(f'data/{folder}')
+		files = os.listdir(f'../data/{folder}')
 		for file in sorted(files):
 			if 'xml' not in file:
 				continue
-			path =  f'data/{folder}/{file}'
+			path =  f'../data/{folder}/{file}'
 			print(path)
 			mid = file.split('.')[0]
 			if(True):
@@ -113,10 +113,6 @@ def scorecard():
 				first_inning_total = 0
 				inning_list = []
 				c += 1
-
-				# Only IPL matches will be processed
-				if comp != 'IPL':
-					continue
 
 
 				for inning in innings:

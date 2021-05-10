@@ -10,9 +10,10 @@ import datetime
 c = 0
 flag = 0
 
-csvfile = open('t20.csv','w')
+csvfile = open('odi.csv','w')
 def create_dataset(full,total,win):
-	# The output csv will be stored in file name result.
+	# The output csv will be stored in file name odi.csv.
+
 	spamwriter = csv.writer(csvfile, delimiter=',',
 							quoting=csv.QUOTE_MINIMAL)
 	global flag
@@ -33,16 +34,16 @@ def scorecard():
 	c = 0
 
 	ballcnt = 0
-	folders = os.listdir('data') # Keep all the files inside the data folder
+	folders = os.listdir('../data') # Keep all the files inside the data folder
 	for folder in sorted(folders):
-		files = os.listdir(f'data/{folder}')
+		files = os.listdir(f'../data/{folder}')
 		for file in sorted(files):
 			if 'xml' not in file:
 				continue
-			path =  f'data/{folder}/{file}'
+			path =  f'../data/{folder}/{file}'
 			print(path)
 			mid = file.split('.')[0]
-			if(True): # Don't remember why I have written this :(
+			if(True):
 				content = open(path)
 				soup = BeautifulSoup(content,"lxml")
 				data = {}
@@ -113,9 +114,10 @@ def scorecard():
 				inning_list = []
 				c += 1
 
-				# Only men t-20 will be processed
-				if mtype != 'T20' or gender != 'male':
+				# Only men ODI matches will be processed
+				if mtype != 'ODI' or gender != 'male':
 					continue
+
 
 				for inning in innings:
 					inning_cnt += 1
