@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/codophobia/Cricket-Score-Prediction-Data-Generator.git
 virtualenv -p python3 venv # You should have Python3 installed on your system
-pip install requirements.txt
+pip install -r requirements.txt
 python script.py
 ```
 

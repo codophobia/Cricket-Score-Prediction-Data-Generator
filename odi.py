@@ -10,19 +10,18 @@ import datetime
 c = 0
 flag = 0
 
-
+csvfile = open('odi.csv','w')
 def create_dataset(full,total,win):
-    # The output csv will be stored in file name result.
-	with open('result.csv', 'a') as csvfile:
+	# The output csv will be stored in file name odi.csv.
 
-		spamwriter = csv.writer(csvfile, delimiter=',',
-							 quoting=csv.QUOTE_MINIMAL)
-		global flag
-		for r in full:
-			if(flag == 0):
-				spamwriter.writerow(["mid", "date","venue","format","tournament","gender","bat_team","bowl_team","batsman","bowler","runs","wickets","overs","runs_last_5","wickets_last_5","striker","non-striker","total","win"])
-				flag = 1
-			spamwriter.writerow([r[0], r[1],r[2],r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],r[12],r[13],r[14],r[15],r[16],total,win])
+	spamwriter = csv.writer(csvfile, delimiter=',',
+							quoting=csv.QUOTE_MINIMAL)
+	global flag
+	for r in full:
+		if(flag == 0):
+			spamwriter.writerow(["mid", "date","venue","format","tournament","gender","bat_team","bowl_team","batsman","bowler","runs","wickets","overs","runs_last_5","wickets_last_5","striker","non-striker","total","win"])
+			flag = 1
+		spamwriter.writerow([r[0], r[1],r[2],r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],r[12],r[13],r[14],r[15],r[16],total,win])
 
 def scorecard():
 
@@ -114,6 +113,10 @@ def scorecard():
 				first_inning_total = 0
 				inning_list = []
 				c += 1
+
+				# Only men ODI matches will be processed
+				if mtype != 'ODI' or gender != 'male':
+					continue
 
 
 				for inning in innings:
